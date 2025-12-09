@@ -13,7 +13,7 @@ It shows business insights like:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot] (https://github.com/abhishekTP623/SALES-AND-PROFIT-DASHBOARD-USING-EXCEL/blob/main/Excel%20sales%20dashboard%20snapshort.png)
+![Dashboard Screenshot] ('https://github.com/abhishekTP623/SALES-AND-PROFIT-DASHBOARD-USING-EXCEL/blob/main/Excel%20sales%20dashboard%20snapshort.png')
 
 ---
 
