@@ -1,0 +1,997 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost_price,supplier,launch_date
+1,Civil Wearables 172,Electronics,Wearables,Franklin PLC,870.96,452.28,Jimenez Ltd,2025-04-20
+2,Upon Tablets 520,Electronics,Tablets,"Cooper, Foster and Hardy",883.01,613.73,"Boyd, Douglas and Wilson",2025-09-18
+3,All Tablets 737,Electronics,Tablets,"Bray, Winters and Davidson",132.84,80.33,"Wilson, Curtis and Moreno",2023-05-15
+4,Financial Smartphones 332,Electronics,Smartphones,"West, Morales and Watts",420.38,284.45,Cochran Group,2024-12-01
+5,Issue Accessories 341,Electronics,Accessories,"Young, White and Cervantes",873.71,416.34,"Morris, Morgan and Brady",2024-01-30
+6,Service Accessories 398,Electronics,Accessories,"Ruiz, Hampton and Henderson",106.02,47.69,"Thompson, Cortez and Allen",2024-02-21
+7,Property Tablets 888,Electronics,Tablets,"Butler, Dennis and White",365.93,217.13,"Hughes, Howard and Brewer",2024-12-08
+8,Risk Wearables 905,Electronics,Wearables,Preston-Wolf,735.76,444.02,Beasley Ltd,2024-11-26
+9,Company Smartphones 422,Electronics,Smartphones,Price and Sons,71.54,37.15,"Hamilton, Little and Brown",2024-09-05
+10,Challenge Accessories 542,Electronics,Accessories,"Sharp, Vega and Parks",855.94,386.56,"Johnson, Mitchell and Martin",2025-10-04
+11,Agency Accessories 136,Electronics,Accessories,Martin and Sons,598.24,258.53,"Cole, Murray and Holder",2025-09-19
+12,Serious Smartphones 427,Electronics,Smartphones,"Molina, Davis and Huffman",499.54,237.2,Horne Ltd,2025-11-19
+13,Local Accessories 894,Electronics,Accessories,Robinson Ltd,452.28,199.58,"Mendoza, Williamson and Krause",2024-01-11
+14,Visit Tablets 121,Electronics,Tablets,Lane PLC,167.76,88.25,"Thompson, Reynolds and Deleon",2024-04-27
+15,Human Accessories 622,Electronics,Accessories,Bowen-Padilla,669.06,390.07,"Butler, Martin and Douglas",2023-09-22
+16,Data Laptops 744,Electronics,Laptops,Wilson Ltd,358.77,192.26,"Oconnor, Dawson and Stone",2025-08-19
+17,Prevent Wearables 633,Electronics,Wearables,Mcpherson-Lee,536.36,250.62,Bennett-Marshall,2024-02-10
+18,Think Wearables 692,Electronics,Wearables,"Nixon, Shaw and Riley",817.25,380.33,Bruce-Ramos,2023-11-20
+19,Red Wearables 202,Electronics,Wearables,Williams LLC,514.72,328.86,Reynolds-Scott,2025-05-05
+20,Walk Tablets 632,Electronics,Tablets,Boyle-Rose,270.19,148.46,"Reed, Rowe and Jones",2024-12-31
+21,Discover Smartphones 721,Electronics,Smartphones,Miller PLC,522.9,294.74,Patton-Sexton,2023-07-27
+22,Rock Tablets 235,Electronics,Tablets,Short Inc,940.88,468.68,Pitts LLC,2024-12-27
+23,Skill Tablets 216,Electronics,Tablets,Anderson PLC,591.14,384.6,Thomas-Yu,2024-12-25
+24,Executive Accessories 421,Electronics,Accessories,Kennedy Inc,256.98,119.1,"Gates, Thompson and Hernandez",2025-04-05
+25,Gun Smartphones 629,Electronics,Smartphones,"Orr, Martin and Torres",508.03,232.29,"Mccann, Ali and Coleman",2023-10-18
+26,Argue Wearables 738,Electronics,Wearables,David-Crawford,908.52,457.44,"Shelton, Nelson and Smith",2025-03-09
+27,View Smartphones 340,Electronics,Smartphones,Le Inc,239.34,120.41,Spencer-Mcdonald,2023-01-17
+28,Resource Tablets 187,Electronics,Tablets,Bell Ltd,418.67,241.9,Wagner-Dickerson,2024-07-17
+29,Positive Laptops 929,Electronics,Laptops,"Edwards, Kelly and Webb",278.64,161.81,Franklin Inc,2025-09-30
+30,Shoulder Laptops 790,Electronics,Laptops,"Frank, James and Conley",301.98,144.78,"Wells, Murray and Jones",2023-10-12
+31,Chair Tablets 786,Electronics,Tablets,Nguyen-Erickson,751.22,411.95,Villanueva-Edwards,2023-10-28
+32,Middle Tablets 928,Electronics,Tablets,"Thompson, Bean and Mullen",378.75,197.26,Mason-Gutierrez,2024-03-22
+33,In Laptops 447,Electronics,Laptops,"Acosta, Young and Diaz",667.65,392.2,Hernandez-Gonzalez,2024-08-22
+34,Name Laptops 957,Electronics,Laptops,Bowman and Sons,974.09,426.87,Wells LLC,2023-12-24
+35,Citizen Accessories 980,Electronics,Accessories,Holmes Group,653.51,301.71,"Diaz, Anderson and Flores",2025-04-26
+36,Occur Laptops 128,Electronics,Laptops,"George, Diaz and Wong",731.08,360.29,Sweeney-Terry,2025-11-25
+37,Worry Tablets 451,Electronics,Tablets,Mata and Sons,136.49,65.7,"Smith, Hoffman and Taylor",2023-03-06
+38,Major Accessories 484,Electronics,Accessories,Garcia LLC,388.14,164.88,Wood-Patton,2022-12-10
+39,City Accessories 304,Electronics,Accessories,Nguyen Ltd,865.07,381.8,Taylor LLC,2025-10-08
+40,And Wearables 767,Electronics,Wearables,Cook-Newton,453.03,309.91,"Richardson, Foster and Miller",2025-07-11
+41,Interview Laptops 927,Electronics,Laptops,Wallace Group,851.28,396.0,"Baker, Frye and Cabrera",2025-06-20
+42,Small Tablets 977,Electronics,Tablets,"Ryan, Dennis and Welch",619.85,368.17,Atkinson-Cook,2025-06-04
+43,Exist Accessories 998,Electronics,Accessories,Parker-Banks,156.38,109.19,Wilkins-White,2023-02-26
+44,Us Tablets 123,Electronics,Tablets,Roberts-Gray,287.53,122.91,Macias-Stephens,2023-05-20
+45,News Laptops 453,Electronics,Laptops,Wright LLC,559.22,311.56,Diaz LLC,2023-10-03
+46,Daughter Smartphones 680,Electronics,Smartphones,Freeman Inc,476.15,283.5,"Conner, Giles and Hughes",2023-06-10
+47,Instead Tablets 917,Electronics,Tablets,Blackburn-Jimenez,465.03,190.95,"Morrison, Walters and Ramos",2024-08-18
+48,Bit Accessories 428,Electronics,Accessories,Gray-Mcdonald,523.01,276.24,Williams and Sons,2024-01-08
+49,Nation Smartphones 348,Electronics,Smartphones,Crawford PLC,772.86,502.12,"Herrera, Torres and Gonzalez",2024-09-04
+50,Raise Wearables 249,Electronics,Wearables,Gray-Ball,526.17,319.98,Scott-Hardy,2023-02-28
+51,Manager Wearables 370,Electronics,Wearables,"Bowman, Simmons and Hernandez",135.81,94.28,Mcdaniel-Powers,2025-06-24
+52,But Laptops 101,Electronics,Laptops,"Simpson, Abbott and Baker",754.0,483.44,Bailey LLC,2025-11-22
+53,Change Tablets 614,Electronics,Tablets,Gillespie-Austin,975.87,447.4,"Smith, Soto and Gonzalez",2024-02-22
+54,Common Tablets 856,Electronics,Tablets,Harrison Ltd,427.17,191.04,Payne PLC,2025-01-27
+55,Station Accessories 885,Electronics,Accessories,Neal-Nash,979.04,513.48,Wilson and Sons,2025-11-23
+56,Government Wearables 808,Electronics,Wearables,"French, Johnson and Kirby",646.66,306.69,"Bates, Schmidt and Bates",2025-09-13
+57,White Accessories 866,Electronics,Accessories,"Cabrera, Parks and Whitaker",724.27,387.77,Norton Ltd,2025-01-29
+58,Walk Accessories 613,Electronics,Accessories,Jones-Horton,255.29,114.18,Hayes-Stuart,2024-05-07
+59,Decision Wearables 124,Electronics,Wearables,Miller-Walls,177.74,90.04,"Rogers, Patterson and Bailey",2025-11-14
+60,Apply Laptops 638,Electronics,Laptops,Sweeney-Hernandez,661.79,355.05,"Jacobs, Rogers and Torres",2025-08-24
+61,Thousand Tablets 154,Electronics,Tablets,Ford Inc,139.28,86.27,Fleming Group,2024-06-26
+62,Open Tablets 481,Electronics,Tablets,Turner-Stephens,734.08,347.17,Guerrero and Sons,2025-05-01
+63,Energy Smartphones 648,Electronics,Smartphones,Simmons-Hood,124.55,66.73,Cooke Inc,2025-02-28
+64,Total Tablets 688,Electronics,Tablets,"Juarez, Frey and Brown",912.72,595.28,"Simmons, Robinson and Singleton",2024-12-28
+65,These Smartphones 724,Electronics,Smartphones,Baird-Tapia,192.82,104.74,Hartman and Sons,2024-09-11
+66,Role Laptops 871,Electronics,Laptops,"Gilbert, Dunlap and Wilson",279.81,192.06,Hunter PLC,2024-09-02
+67,Color Tablets 780,Electronics,Tablets,Davenport-Massey,532.6,247.32,Rose PLC,2024-06-13
+68,Data Laptops 154,Electronics,Laptops,Reeves-Fitzgerald,663.27,269.4,"Gonzalez, Simpson and Davis",2023-11-13
+69,One Wearables 410,Electronics,Wearables,Richard-Blevins,728.69,410.98,Ayers LLC,2023-09-14
+70,Conference Laptops 996,Electronics,Laptops,Clay-Johnson,21.6,11.41,Davidson-Harris,2023-07-01
+71,Cover Tablets 587,Electronics,Tablets,Dean-Morris,982.32,628.8,Gordon Group,2025-07-25
+72,Administration Laptops 469,Electronics,Laptops,"Davis, Sanchez and Mejia",819.29,455.31,Jackson PLC,2023-09-09
+73,Soon Tablets 107,Electronics,Tablets,Cooley-Colon,269.25,110.65,"Rangel, Berry and Lynch",2022-12-05
+74,Class Tablets 956,Electronics,Tablets,Peters-Davila,360.48,240.75,"Wheeler, Richards and Anderson",2024-01-29
+75,Up Wearables 228,Electronics,Wearables,Harper-Johnson,683.34,314.76,"Rogers, Ramos and Webb",2023-07-23
+76,Change Smartphones 553,Electronics,Smartphones,Baker-Webb,269.99,182.82,Ramsey-Carter,2025-09-12
+77,Health Smartphones 620,Electronics,Smartphones,Woodward-Byrd,107.77,51.69,Murillo Group,2025-07-12
+78,Key Smartphones 184,Electronics,Smartphones,Lawson-Gray,544.84,284.74,Ford Group,2025-09-21
+79,High Smartphones 987,Electronics,Smartphones,Vasquez and Sons,895.05,414.18,Clarke-Love,2023-06-07
+80,Country Tablets 169,Electronics,Tablets,"Johnson, Washington and Allen",584.13,291.29,"Lozano, Stephens and Wright",2025-01-13
+81,World Wearables 169,Electronics,Wearables,"Barton, Smith and Thomas",720.41,384.81,"Hill, Palmer and Schmidt",2024-01-31
+82,Team Smartphones 993,Electronics,Smartphones,Solis-Johnson,758.97,329.9,"Wang, Harvey and White",2024-07-14
+83,Phone Laptops 824,Electronics,Laptops,Perez-Buchanan,754.56,379.62,Diaz-Burns,2024-03-01
+84,Need Tablets 696,Electronics,Tablets,Bonilla Inc,668.92,323.37,"Tyler, Bender and Acosta",2023-01-18
+85,Customer Wearables 324,Electronics,Wearables,Powers Inc,63.28,36.14,Meyers and Sons,2025-02-20
+86,Citizen Tablets 737,Electronics,Tablets,Hansen-Morris,51.87,28.91,Olson-Smith,2023-05-08
+87,Clearly Accessories 504,Electronics,Accessories,Moreno-Dennis,357.25,207.7,Oconnell and Sons,2024-04-28
+88,Down Tablets 976,Electronics,Tablets,"Hernandez, Carroll and Ferguson",406.32,175.64,Cabrera and Sons,2023-12-21
+89,Western Laptops 199,Electronics,Laptops,Conley-West,357.02,146.53,Zhang and Sons,2023-01-16
+90,Enter Tablets 124,Electronics,Tablets,Taylor PLC,672.9,459.36,Lloyd LLC,2025-04-24
+91,Something Laptops 908,Electronics,Laptops,Lawrence-Dean,145.41,100.16,"Austin, Hughes and Davis",2023-08-14
+92,Become Laptops 391,Electronics,Laptops,Bowman Group,663.43,355.18,"Hall, Hooper and Nguyen",2025-05-27
+93,Not Tablets 503,Electronics,Tablets,Ho-Edwards,254.44,119.69,Phillips-Nelson,2025-09-16
+94,Free Accessories 451,Electronics,Accessories,"Underwood, Simpson and Martinez",600.37,257.26,Wright-Cummings,2024-12-09
+95,Test Smartphones 680,Electronics,Smartphones,Butler-Bird,17.16,7.66,Ramirez-Good,2023-10-29
+96,Any Accessories 248,Electronics,Accessories,Mcintyre Ltd,314.91,195.4,Harrington Inc,2023-04-11
+97,Your Tablets 529,Electronics,Tablets,"Robinson, Johnson and Edwards",679.91,415.81,Houston-Jones,2025-03-09
+98,Around Laptops 649,Electronics,Laptops,Anderson Ltd,488.86,225.99,Townsend LLC,2023-07-30
+99,Cover Tablets 166,Electronics,Tablets,"Bryan, Wilson and Parks",455.2,298.22,Wiley and Sons,2025-10-11
+100,Good Accessories 579,Electronics,Accessories,Hammond-Fitzgerald,649.16,265.91,Wood-Reeves,2024-11-10
+101,Discussion Wearables 773,Electronics,Wearables,Howard-Lyons,508.98,322.47,Peterson Group,2024-07-10
+102,Take Smartphones 578,Electronics,Smartphones,West Inc,881.21,448.7,Adams Inc,2023-04-29
+103,Level Accessories 710,Electronics,Accessories,"Acosta, Mann and Shannon",793.59,318.11,"Watson, Graham and Ward",2023-07-19
+104,Record Accessories 855,Electronics,Accessories,Estrada Group,877.1,530.95,"Cox, Lambert and Hall",2023-10-29
+105,Or Smartphones 658,Electronics,Smartphones,"Bell, Young and Young",690.39,446.02,"Rodriguez, Bennett and Lane",2023-07-21
+106,Star Laptops 974,Electronics,Laptops,"Castillo, Lambert and Wilson",615.7,420.07,Lee Ltd,2024-10-01
+107,Spring Wearables 701,Electronics,Wearables,Harrington-Palmer,594.41,345.97,Waters-Rice,2023-01-31
+108,During Accessories 407,Electronics,Accessories,"Rodriguez, Thomas and Henderson",179.35,118.01,Graves LLC,2023-04-19
+109,Bar Accessories 717,Electronics,Accessories,Larson Ltd,436.44,265.77,"Harris, Salazar and Herring",2023-05-02
+110,Send Accessories 679,Electronics,Accessories,"Casey, Alvarez and Kent",989.8,484.77,Anderson Ltd,2023-06-03
+111,Also Wearables 121,Electronics,Wearables,Steele-Miller,361.81,157.54,"Freeman, Walker and Rogers",2024-05-24
+112,Blood Accessories 325,Electronics,Accessories,Cruz-Espinoza,570.24,383.09,Miller-Jones,2024-11-15
+113,People Wearables 791,Electronics,Wearables,Taylor Ltd,212.94,134.23,"Rodriguez, Richard and Martinez",2024-02-20
+114,Land Wearables 860,Electronics,Wearables,Abbott-Carter,456.45,196.07,Dougherty-Martinez,2023-02-23
+115,Oil Tablets 363,Electronics,Tablets,Downs and Sons,476.92,198.34,Mooney-Andrews,2025-02-01
+116,Feel Accessories 459,Electronics,Accessories,"Bryant, Smith and Walker",153.03,67.77,Hamilton-Klein,2024-12-11
+117,Else Tablets 321,Electronics,Tablets,Wright Group,717.82,350.88,"Taylor, Clark and Taylor",2024-11-25
+118,Sort Smartphones 265,Electronics,Smartphones,"Oliver, Marshall and Owens",935.29,470.29,Sherman Inc,2023-01-11
+119,Health Laptops 547,Electronics,Laptops,Wagner Group,63.49,30.05,Price-Francis,2023-01-01
+120,Rate Laptops 239,Electronics,Laptops,Brown-Jones,998.2,488.35,Nichols-Jones,2025-09-15
+121,Present Accessories 619,Electronics,Accessories,Berger-Flores,744.86,349.68,"Gill, Johnson and Hughes",2024-06-27
+122,Physical Laptops 683,Electronics,Laptops,"Smith, Kelly and Carter",421.42,229.41,Stewart and Sons,2024-05-17
+123,Establish Tablets 118,Electronics,Tablets,Clark-Burns,417.85,229.79,Keller-Summers,2023-06-25
+124,Have Smartphones 527,Electronics,Smartphones,Mueller PLC,449.94,275.99,Butler-Anderson,2025-09-14
+125,Now Tablets 616,Electronics,Tablets,"Brown, Hayes and Bush",913.59,631.62,"Willis, Stone and Moore",2024-01-27
+126,Audience Laptops 945,Electronics,Laptops,Johnson and Sons,574.35,259.75,Coleman-Wright,2023-01-11
+127,People Accessories 869,Electronics,Accessories,Hayes Group,870.86,540.91,"Hart, Burke and Walton",2024-03-11
+128,Choose Tablets 115,Electronics,Tablets,"Brown, Smith and Finley",189.35,84.66,Dawson-Arnold,2024-09-14
+129,Involve Wearables 927,Electronics,Wearables,Hernandez Group,540.41,377.93,"Reyes, Patel and Keller",2025-07-16
+130,Before Laptops 759,Electronics,Laptops,Odom-Jackson,635.73,339.87,Waller-Kelley,2025-11-28
+131,Spring Wearables 835,Electronics,Wearables,Snyder Ltd,23.61,13.75,Peters-Bright,2023-01-16
+132,Campaign Tablets 674,Electronics,Tablets,"Gilbert, Mcdonald and Graves",452.86,246.04,"Allen, Hernandez and Lewis",2025-05-17
+133,Matter Wearables 239,Electronics,Wearables,Best Ltd,930.09,501.19,Lucas-Mata,2024-10-12
+134,Mind Accessories 611,Electronics,Accessories,Robinson-Joseph,79.88,40.2,Blanchard-Hampton,2025-02-28
+135,Any Tablets 134,Electronics,Tablets,"Gray, Mckinney and Stevens",248.27,132.58,Wallace PLC,2024-02-22
+136,Fire Wearables 955,Electronics,Wearables,Morales-Jones,291.56,150.28,Jones Ltd,2023-09-27
+137,Service Wearables 426,Electronics,Wearables,Phillips and Sons,547.28,369.01,"Evans, Mendoza and Gonzales",2025-09-06
+138,Still Accessories 302,Electronics,Accessories,Williams Inc,238.39,131.87,Rivera-Randall,2023-09-17
+139,Collection Tablets 836,Electronics,Tablets,Lane LLC,317.39,198.97,Townsend LLC,2025-10-29
+140,Outside Tablets 606,Electronics,Tablets,"Higgins, Holloway and Baird",490.93,305.17,"Valenzuela, Johnson and Wells",2024-05-13
+141,Suffer Accessories 828,Electronics,Accessories,Wilson-Santiago,747.75,495.62,Pearson-Oconnor,2024-02-05
+142,Either Tablets 728,Electronics,Tablets,Robles-Harrell,45.3,29.76,Mitchell-Garcia,2023-12-22
+143,Represent Tablets 216,Electronics,Tablets,Walker-Henry,436.08,287.3,Gutierrez-Scott,2023-08-09
+144,Leave Accessories 327,Electronics,Accessories,"Guerrero, Bowers and Guerrero",171.0,107.94,Holder-Lee,2025-06-03
+145,Behavior Tablets 507,Electronics,Tablets,Waters-Reeves,306.76,197.33,Gonzalez-James,2023-05-29
+146,Lead Tablets 629,Electronics,Tablets,Schneider-Oliver,22.29,13.92,"Harris, Romero and Howard",2024-09-25
+147,Store Smartphones 322,Electronics,Smartphones,Jones-Chung,282.02,131.79,"Chen, Nelson and Martin",2022-12-14
+148,Woman Accessories 597,Electronics,Accessories,"Mcmahon, Rodriguez and King",976.37,565.37,Parks PLC,2025-07-23
+149,Factor Tablets 147,Electronics,Tablets,Edwards PLC,699.28,413.66,Bennett Ltd,2024-08-12
+150,Through Tablets 550,Electronics,Tablets,Medina-Frazier,463.11,230.2,Russell-Davidson,2022-12-18
+151,Discussion Wearables 428,Electronics,Wearables,Romero Inc,119.42,68.14,Blair-Cherry,2024-02-23
+152,Once Wearables 489,Electronics,Wearables,Carter PLC,333.43,195.83,Lowe-West,2023-04-08
+153,Exist Accessories 699,Electronics,Accessories,Stevens Inc,572.89,272.49,"Johnson, Porter and Turner",2024-10-11
+154,Force Tablets 221,Electronics,Tablets,"Yang, Conner and Hunt",370.35,248.52,Sanders-Edwards,2025-01-21
+155,Remember Smartphones 634,Electronics,Smartphones,Williams and Sons,331.64,174.38,Meyer-Harper,2024-07-31
+156,Set Wearables 222,Electronics,Wearables,Jackson PLC,822.51,570.26,Greene-Martinez,2023-08-24
+157,Yes Laptops 338,Electronics,Laptops,Davis-Patterson,40.5,22.54,Nunez-Harris,2024-06-25
+158,Develop Tablets 779,Electronics,Tablets,"Wilson, Ryan and Mcdaniel",319.23,202.23,Jones Group,2023-06-19
+159,Set Smartphones 417,Electronics,Smartphones,Dunn PLC,810.66,564.87,Thornton and Sons,2024-09-24
+160,Director Laptops 157,Electronics,Laptops,Mcmahon and Sons,148.48,71.53,"Williams, Hull and Navarro",2024-10-06
+161,Admit Smartphones 335,Electronics,Smartphones,Kerr-Thompson,109.5,74.61,Harmon PLC,2025-05-29
+162,Fight Accessories 412,Electronics,Accessories,Jones-Cline,313.27,157.96,Rodriguez-Watson,2024-07-11
+163,Recognize Laptops 636,Electronics,Laptops,Gibson and Sons,873.25,557.98,Cooper-Keller,2023-10-27
+164,Sometimes Tablets 479,Electronics,Tablets,Humphrey LLC,679.96,423.69,Armstrong-Berry,2025-10-07
+165,Teacher Laptops 294,Electronics,Laptops,Mora PLC,155.68,108.04,"Jackson, Mcmillan and Mccarthy",2025-03-19
+166,Leg Smartphones 741,Electronics,Smartphones,Kane-Smith,673.61,296.77,"Johnson, Clark and Mason",2024-08-20
+167,Near Accessories 893,Clothing,Accessories,"Nichols, Cooper and Valentine",934.03,535.51,"Miller, Sellers and Wheeler",2023-04-02
+168,Present Kids Wear 322,Clothing,Kids Wear,Coleman Inc,920.61,428.53,Hoffman and Sons,2023-05-17
+169,Visit Footwear 969,Clothing,Footwear,Flynn-Johnson,80.83,52.23,"Martinez, Ward and Burke",2025-06-06
+170,She Accessories 268,Clothing,Accessories,"Norris, Nelson and Delacruz",688.55,362.15,Davis and Sons,2023-02-18
+171,Toward Men's Wear 165,Clothing,Men's Wear,Whitehead Ltd,567.16,319.88,Cannon Group,2024-04-20
+172,Relate Accessories 342,Clothing,Accessories,Reynolds-Clark,957.14,425.78,Torres-Lucero,2023-01-20
+173,Others Women's Wear 236,Clothing,Women's Wear,Williams PLC,872.88,473.05,Foster Group,2023-05-09
+174,Table Men's Wear 700,Clothing,Men's Wear,"Davis, Williams and Parker",520.44,216.22,Gibson-Brown,2023-10-12
+175,Inside Men's Wear 734,Clothing,Men's Wear,"Martinez, Stevens and Robinson",508.03,320.85,"Mcintyre, Jones and Smith",2024-07-19
+176,Work Footwear 970,Clothing,Footwear,"Goodwin, Hickman and Morrison",990.6,672.32,Pitts-Mcdaniel,2024-11-15
+177,Weight Kids Wear 798,Clothing,Kids Wear,Evans-Brooks,825.45,467.7,"Fields, Burke and Holloway",2025-07-24
+178,Race Women's Wear 516,Clothing,Women's Wear,Good-Stephenson,730.08,443.27,Livingston-Chavez,2023-08-05
+179,Along Footwear 908,Clothing,Footwear,Holt-Kane,594.71,314.48,Perez and Sons,2024-12-27
+180,Until Women's Wear 549,Clothing,Women's Wear,Jenkins LLC,540.35,372.02,Hays-Ellis,2024-07-28
+181,Those Footwear 292,Clothing,Footwear,Soto LLC,131.81,68.14,Davis-Barnes,2024-09-27
+182,Though Women's Wear 681,Clothing,Women's Wear,Knight-Ibarra,918.9,499.05,Day-Kirk,2025-10-18
+183,Seven Men's Wear 220,Clothing,Men's Wear,Villarreal-Vega,750.47,427.71,Alvarado-Wilson,2024-07-08
+184,Hand Kids Wear 969,Clothing,Kids Wear,Farmer-Harris,684.03,375.84,Mccoy-Rodriguez,2023-06-30
+185,Care Women's Wear 510,Clothing,Women's Wear,Jones-Anderson,919.41,480.19,"Brown, Ochoa and Friedman",2025-10-28
+186,At Men's Wear 802,Clothing,Men's Wear,Gates Inc,867.57,398.83,Roman Ltd,2023-04-06
+187,Society Kids Wear 404,Clothing,Kids Wear,"Fields, Esparza and Jones",474.55,243.97,Hoover Inc,2023-01-06
+188,Anyone Women's Wear 998,Clothing,Women's Wear,"Perkins, Foster and Horton",568.33,299.92,Wilson Ltd,2023-02-26
+189,Face Footwear 858,Clothing,Footwear,Lang-Chapman,673.0,288.15,"Fox, Dyer and Johnson",2023-02-24
+190,Pass Footwear 174,Clothing,Footwear,Humphrey-Torres,598.12,412.63,Saunders Group,2024-05-05
+191,Their Footwear 971,Clothing,Footwear,Carter Inc,27.31,18.79,"Casey, Owens and Zuniga",2024-03-21
+192,Large Footwear 413,Clothing,Footwear,"Ramos, Weiss and Lowery",605.49,303.93,"Melton, Trevino and George",2025-10-04
+193,Tree Accessories 544,Clothing,Accessories,Collins PLC,763.42,420.33,Collins Inc,2024-09-27
+194,Wrong Accessories 224,Clothing,Accessories,Howard Group,875.84,351.4,Weaver-Chang,2023-11-02
+195,After Men's Wear 847,Clothing,Men's Wear,Jackson-Fry,688.42,406.08,Martinez-Keller,2023-02-26
+196,It Men's Wear 625,Clothing,Men's Wear,"Acosta, Arroyo and Perez",567.15,393.05,Munoz Ltd,2023-07-25
+197,Ground Men's Wear 503,Clothing,Men's Wear,Thompson-Watson,272.63,167.35,Jensen PLC,2024-06-30
+198,Huge Kids Wear 913,Clothing,Kids Wear,Perry Inc,966.42,444.89,Wilcox-Johnson,2023-02-15
+199,Tough Men's Wear 289,Clothing,Men's Wear,Reeves PLC,217.4,117.7,Brown-Kennedy,2024-04-07
+200,His Accessories 715,Clothing,Accessories,Tanner-Davis,212.09,119.96,Avery Inc,2024-08-21
+201,Concern Kids Wear 830,Clothing,Kids Wear,Knapp Group,97.97,41.56,Mclaughlin-Peterson,2023-08-18
+202,Turn Women's Wear 788,Clothing,Women's Wear,Meza-Jenkins,520.46,331.02,"Chavez, Browning and Thomas",2023-02-12
+203,Wrong Accessories 718,Clothing,Accessories,King-Bailey,936.76,554.72,Richards Group,2024-12-12
+204,Street Accessories 424,Clothing,Accessories,"Saunders, Sanchez and Haynes",724.25,410.89,"Brown, Green and Thompson",2025-03-17
+205,Body Accessories 714,Clothing,Accessories,"Flowers, Warren and Miller",348.86,235.76,"Cooper, Martinez and Price",2023-04-26
+206,Girl Men's Wear 226,Clothing,Men's Wear,Leonard-Mills,618.63,342.08,Garner and Sons,2024-05-05
+207,Memory Men's Wear 957,Clothing,Men's Wear,Bennett LLC,570.99,383.85,Weber PLC,2024-02-11
+208,Analysis Kids Wear 540,Clothing,Kids Wear,Burke-Alvarez,329.54,143.02,Ibarra-Carlson,2023-05-08
+209,Part Women's Wear 136,Clothing,Women's Wear,Castillo-Larson,135.23,70.42,Romero Group,2024-01-28
+210,Suddenly Accessories 970,Clothing,Accessories,"Lopez, Smith and Washington",733.4,341.57,Harris-Roberts,2024-04-24
+211,Course Kids Wear 704,Clothing,Kids Wear,Jordan-Evans,248.76,155.51,Davis-Martinez,2023-04-28
+212,Religious Men's Wear 411,Clothing,Men's Wear,Rodriguez-Hamilton,223.2,108.53,"Newman, Hanson and Moore",2023-04-27
+213,Table Women's Wear 186,Clothing,Women's Wear,Wilson-Moore,544.88,256.23,"Terry, Jones and Ward",2023-01-06
+214,Ball Footwear 509,Clothing,Footwear,"Kim, Grant and Young",451.33,230.1,"Shepherd, Humphrey and Hill",2024-06-19
+215,View Footwear 527,Clothing,Footwear,Olsen Ltd,365.67,190.62,"Ellison, Mercer and Ibarra",2023-04-28
+216,Author Footwear 921,Clothing,Footwear,Ramos Group,54.9,29.4,"Stevens, Reyes and Kidd",2023-04-16
+217,Surface Accessories 354,Clothing,Accessories,Cole and Sons,447.66,228.52,"Wright, Hopkins and Strickland",2025-08-15
+218,Season Footwear 565,Clothing,Footwear,Clayton-Moore,84.65,58.78,Sharp PLC,2025-07-15
+219,Exist Accessories 287,Clothing,Accessories,Smith Inc,963.77,490.9,"Franklin, Welch and Herrera",2024-03-06
+220,Per Kids Wear 136,Clothing,Kids Wear,Jenkins Group,724.46,405.47,Hicks-Thomas,2022-12-04
+221,Skin Footwear 161,Clothing,Footwear,Oneal-Yates,255.62,119.52,Williamson Inc,2023-06-06
+222,Student Women's Wear 680,Clothing,Women's Wear,Garcia Inc,392.69,225.33,"Duke, West and Johnson",2025-03-29
+223,Million Men's Wear 263,Clothing,Men's Wear,Austin-Mcintyre,411.87,182.76,Swanson and Sons,2024-11-15
+224,Skin Men's Wear 675,Clothing,Men's Wear,Fritz LLC,824.48,449.16,"Douglas, Harper and Lewis",2025-02-03
+225,Instead Footwear 901,Clothing,Footwear,Steele-Johnson,427.17,247.64,Alvarado PLC,2024-03-07
+226,Line Footwear 611,Clothing,Footwear,"Grant, Terry and Francis",134.89,75.64,"Wilson, Douglas and Park",2025-08-04
+227,Western Footwear 542,Clothing,Footwear,Raymond-Walsh,202.53,102.9,"Rios, Gamble and Gardner",2025-11-08
+228,Voice Kids Wear 339,Clothing,Kids Wear,Jacobs-Lozano,304.86,126.57,Johnson PLC,2022-12-31
+229,Morning Women's Wear 106,Clothing,Women's Wear,Johnson PLC,433.31,278.09,"Weaver, Phillips and Cole",2025-09-27
+230,He Accessories 335,Clothing,Accessories,Perez Group,313.02,139.52,"Gay, Huynh and Taylor",2023-01-02
+231,Analysis Footwear 335,Clothing,Footwear,"Riggs, Sanchez and Martin",772.43,446.88,"Willis, Zamora and Bryant",2023-03-07
+232,Across Footwear 810,Clothing,Footwear,Lopez-Cox,530.28,335.96,"Hubbard, Jones and Holmes",2024-05-03
+233,Big Footwear 138,Clothing,Footwear,"Ramos, Henderson and Robinson",217.12,117.64,Johnston LLC,2024-02-23
+234,Door Men's Wear 899,Clothing,Men's Wear,Carter Inc,915.17,469.89,"Paul, Lowe and Davis",2025-07-18
+235,Newspaper Accessories 199,Clothing,Accessories,"Williams, Guzman and Wells",417.28,204.75,"Lamb, Brown and Harris",2023-08-04
+236,Such Kids Wear 840,Clothing,Kids Wear,King-Norris,23.37,15.31,Sullivan LLC,2024-10-30
+237,Newspaper Accessories 138,Clothing,Accessories,David LLC,126.0,87.91,Mullen Ltd,2024-09-14
+238,Keep Kids Wear 347,Clothing,Kids Wear,Luna-Lang,437.93,188.74,Saunders LLC,2023-09-04
+239,Huge Men's Wear 144,Clothing,Men's Wear,Price Group,253.49,115.39,Marshall-Brown,2023-03-27
+240,Trip Women's Wear 918,Clothing,Women's Wear,Howard-Hernandez,857.51,442.6,Chapman PLC,2024-09-22
+241,People Men's Wear 144,Clothing,Men's Wear,Ortega-Andrews,633.31,436.56,Davis LLC,2025-10-07
+242,Cultural Kids Wear 201,Clothing,Kids Wear,Aguilar-Beck,893.61,600.17,Walker Inc,2024-01-28
+243,True Accessories 115,Clothing,Accessories,Nichols-Sexton,178.02,113.83,Peterson Ltd,2025-03-24
+244,Guess Footwear 864,Clothing,Footwear,Moore-Johnson,854.06,343.09,"Taylor, Vaughan and Taylor",2025-07-22
+245,Sea Women's Wear 541,Clothing,Women's Wear,"Mullins, Short and Mccarty",695.48,450.93,Castillo-Moyer,2024-09-07
+246,Lay Kids Wear 251,Clothing,Kids Wear,"Jacobs, Goodman and Whitaker",630.72,360.16,Henry LLC,2025-01-20
+247,Guy Footwear 813,Clothing,Footwear,"West, Salazar and Kim",546.18,300.27,"Wade, Anderson and Schultz",2023-09-22
+248,Lose Men's Wear 948,Clothing,Men's Wear,Johnston-Davis,332.6,150.89,Valdez LLC,2025-11-04
+249,Determine Footwear 555,Clothing,Footwear,"Calderon, Porter and Blanchard",628.81,348.64,Conner-Jones,2025-08-05
+250,For Accessories 929,Clothing,Accessories,Lewis-Harris,674.62,299.35,"Wheeler, Byrd and Robinson",2023-04-06
+251,Report Footwear 707,Clothing,Footwear,"Pollard, Lucero and Walker",167.64,82.94,"Carroll, Cross and Lopez",2025-04-09
+252,Executive Women's Wear 485,Clothing,Women's Wear,Carlson LLC,826.17,332.52,Hill-Brewer,2024-10-31
+253,Drop Men's Wear 141,Clothing,Men's Wear,"Howard, Willis and Carter",994.64,673.35,Park Inc,2024-01-10
+254,Down Kids Wear 122,Clothing,Kids Wear,Bullock PLC,933.23,458.67,Dunlap-Fox,2025-01-09
+255,Matter Women's Wear 978,Clothing,Women's Wear,Willis Ltd,147.2,86.07,"King, Austin and Ortiz",2024-04-24
+256,Tell Accessories 932,Clothing,Accessories,Moore Inc,66.2,35.05,Douglas-Smith,2025-04-13
+257,Pay Kids Wear 844,Clothing,Kids Wear,Cameron-Obrien,877.24,553.8,Kennedy-Rogers,2023-09-12
+258,World Men's Wear 437,Clothing,Men's Wear,Garcia-George,646.41,401.07,Merritt-Klein,2023-07-10
+259,Guy Kids Wear 299,Clothing,Kids Wear,"Powell, Bennett and Holmes",176.88,98.4,"Romero, Kline and Cannon",2024-03-18
+260,Plan Kids Wear 192,Clothing,Kids Wear,Smith-Mcneil,755.0,480.02,Johnson PLC,2024-12-09
+261,Spend Kids Wear 398,Clothing,Kids Wear,Mendez and Sons,710.23,414.79,Wilson PLC,2023-08-31
+262,Gas Men's Wear 536,Clothing,Men's Wear,Williams-Collins,525.42,281.7,Wood and Sons,2025-07-16
+263,Free Accessories 645,Clothing,Accessories,"Garrett, Owen and Griffin",39.92,24.64,Hernandez-Franklin,2024-12-22
+264,Always Women's Wear 614,Clothing,Women's Wear,"Gonzales, Morgan and Vargas",416.69,169.94,Walton-Novak,2023-04-09
+265,Stuff Women's Wear 785,Clothing,Women's Wear,"Moore, Allen and Contreras",471.71,269.44,Marks-Johnson,2025-02-08
+266,Assume Men's Wear 845,Clothing,Men's Wear,Estrada-Powell,446.3,186.46,Campos-Clay,2023-12-07
+267,Others Accessories 487,Clothing,Accessories,Hill and Sons,975.68,624.35,"Jones, Griffin and Crawford",2025-02-17
+268,Rich Kids Wear 311,Clothing,Kids Wear,Bernard PLC,697.19,356.4,Higgins-Craig,2025-11-16
+269,Together Accessories 170,Clothing,Accessories,Ramirez-Weber,228.62,138.08,Black Ltd,2025-07-24
+270,Fire Footwear 732,Clothing,Footwear,"Rivera, Mendez and Lamb",53.09,24.79,Mack-Taylor,2023-09-06
+271,Positive Accessories 692,Clothing,Accessories,Garcia-Hopkins,265.12,149.18,Robertson and Sons,2025-08-04
+272,Language Men's Wear 278,Clothing,Men's Wear,Bell-Martin,277.34,127.91,Vazquez LLC,2025-09-26
+273,Half Women's Wear 933,Clothing,Women's Wear,Bryant-Gill,677.16,314.44,"Sherman, Shaffer and Hicks",2023-09-02
+274,Buy Kids Wear 583,Clothing,Kids Wear,"Jacobs, Mooney and Cole",377.06,154.51,Perez-White,2025-08-07
+275,Begin Accessories 991,Clothing,Accessories,Harris Group,556.35,252.49,"Smith, Parks and Taylor",2023-11-26
+276,Model Accessories 567,Clothing,Accessories,"Gonzalez, Williams and Lee",583.05,287.04,Smith Group,2023-07-18
+277,Grow Accessories 911,Clothing,Accessories,Sullivan and Sons,974.08,669.22,Stephens Group,2024-11-29
+278,Today Footwear 394,Clothing,Footwear,"Brown, Kline and Thomas",741.95,328.26,Odonnell LLC,2025-04-22
+279,Natural Footwear 110,Clothing,Footwear,Williams-Scott,88.16,35.3,Buckley Ltd,2024-07-22
+280,Politics Women's Wear 265,Clothing,Women's Wear,"Rice, Atkins and West",315.75,196.92,"Green, Johnston and Cook",2025-06-06
+281,Sister Footwear 128,Clothing,Footwear,Bryant and Sons,817.44,429.94,Yu-Mathews,2024-08-04
+282,Your Accessories 599,Clothing,Accessories,"Johnson, Martin and Vance",539.8,272.15,Solis-James,2023-10-11
+283,Study Women's Wear 254,Clothing,Women's Wear,"Rogers, Jones and Hodges",14.4,6.93,Martinez Group,2024-08-02
+284,Budget Kids Wear 236,Clothing,Kids Wear,Porter-Hudson,350.3,170.33,Franklin-Fuller,2024-03-04
+285,Could Footwear 771,Clothing,Footwear,Wilson Inc,574.38,358.78,Martin-Mora,2024-04-20
+286,Single Women's Wear 339,Clothing,Women's Wear,"Lee, Sutton and Hill",697.34,332.13,"Leonard, Gonzalez and Flores",2023-12-28
+287,Health Footwear 752,Clothing,Footwear,Smith Inc,858.16,466.37,"Lloyd, Bryant and Coleman",2025-04-04
+288,Center Women's Wear 754,Clothing,Women's Wear,"Boyd, Burch and Vance",790.02,319.72,Johnson PLC,2023-10-18
+289,Exactly Accessories 747,Clothing,Accessories,"Deleon, Ray and Harper",979.45,672.01,Blair-Garrett,2022-12-29
+290,Individual Women's Wear 169,Clothing,Women's Wear,Jones-Wilkinson,344.15,232.99,Palmer Group,2023-07-11
+291,Election Kids Wear 652,Clothing,Kids Wear,"Friedman, Hughes and Yang",910.51,475.68,"Lozano, Murphy and Williams",2025-04-27
+292,Sort Accessories 327,Clothing,Accessories,Hart Inc,256.81,146.17,"Ward, Sanchez and Lopez",2023-07-11
+293,Town Accessories 625,Clothing,Accessories,"Williams, Jacobson and Carter",482.8,271.01,Evans LLC,2024-07-27
+294,Mean Footwear 236,Clothing,Footwear,Blair Group,663.14,450.72,"Myers, Wilcox and Miller",2024-04-24
+295,Rock Kids Wear 541,Clothing,Kids Wear,Arellano and Sons,78.14,32.83,"Taylor, Cobb and Martinez",2025-04-15
+296,Card Women's Wear 182,Clothing,Women's Wear,"Yang, Torres and Alexander",781.61,477.87,"Abbott, Bryan and Jackson",2025-07-28
+297,Recent Footwear 303,Clothing,Footwear,"Griffin, Roberts and Ramos",206.3,100.71,Booker Ltd,2023-11-27
+298,Only Accessories 285,Clothing,Accessories,Jones-Parker,309.35,185.93,"Pugh, Terry and Sparks",2024-12-16
+299,West Footwear 896,Clothing,Footwear,Reese and Sons,926.41,468.49,Davis-Kim,2023-05-16
+300,Apply Men's Wear 262,Clothing,Men's Wear,Thompson-Yu,57.97,26.76,"Lee, Hill and Nelson",2023-04-18
+301,Buy Kids Wear 130,Clothing,Kids Wear,Esparza-Ferguson,426.45,227.17,Nash PLC,2023-09-01
+302,Town Kids Wear 762,Clothing,Kids Wear,"Reynolds, Cabrera and Branch",327.5,170.9,"Tucker, Rivas and Collins",2023-07-09
+303,Administration Women's Wear 959,Clothing,Women's Wear,Anthony and Sons,55.13,37.21,"Thompson, Guzman and Anderson",2023-04-20
+304,Growth Footwear 223,Clothing,Footwear,Patterson-Thompson,576.23,331.56,"Jones, King and Hart",2025-06-06
+305,Whatever Kids Wear 953,Clothing,Kids Wear,Hammond-Hughes,955.27,589.57,Graham LLC,2024-05-16
+306,Mouth Accessories 213,Clothing,Accessories,Mccormick-Sanders,595.91,264.91,"Smith, Reyes and Baker",2024-02-10
+307,Yet Women's Wear 293,Clothing,Women's Wear,"Vargas, Rodriguez and Walsh",202.64,124.56,"Vega, Marshall and Reed",2024-06-29
+308,South Kids Wear 289,Clothing,Kids Wear,Willis LLC,786.43,348.56,Simpson-Robinson,2023-10-26
+309,Reflect Footwear 746,Clothing,Footwear,Hampton LLC,545.47,339.82,"Smith, Pratt and Jacobs",2024-03-26
+310,Me Footwear 241,Clothing,Footwear,Fritz PLC,406.16,250.57,Pena Ltd,2023-04-10
+311,Campaign Men's Wear 973,Clothing,Men's Wear,Hoover-Hill,924.05,505.74,"Woods, Hamilton and Mitchell",2023-02-13
+312,Between Women's Wear 341,Clothing,Women's Wear,"Carroll, Chase and Austin",955.33,662.2,Garcia Group,2023-01-16
+313,American Kids Wear 569,Clothing,Kids Wear,Russell-Smith,746.5,397.69,"Clark, Roberts and Frost",2025-11-13
+314,State Accessories 541,Clothing,Accessories,"Gilbert, Tanner and Nicholson",235.97,145.42,Clark-Lopez,2024-01-09
+315,Arm Men's Wear 637,Clothing,Men's Wear,Norris and Sons,154.52,89.22,Payne PLC,2023-05-26
+316,It Women's Wear 760,Clothing,Women's Wear,Quinn Ltd,977.93,438.34,"Cook, Gray and Booth",2023-04-19
+317,Foreign Women's Wear 673,Clothing,Women's Wear,Williams-Mathews,709.06,309.67,Anderson-Rojas,2024-01-04
+318,Side Footwear 344,Clothing,Footwear,Adams-Banks,650.94,271.54,Berger-Martinez,2023-10-21
+319,Executive Women's Wear 747,Clothing,Women's Wear,Winters-Gomez,933.75,630.81,"Wall, Hamilton and Mckee",2024-10-12
+320,Actually Footwear 236,Clothing,Footwear,Maxwell PLC,549.56,273.54,Howard-Anderson,2023-08-28
+321,Challenge Accessories 716,Clothing,Accessories,Hutchinson-Cain,648.18,365.85,Stephens-Solis,2023-02-27
+322,Reach Women's Wear 753,Clothing,Women's Wear,"Shaw, Diaz and Rice",420.68,267.04,"Grant, Valencia and Frank",2023-11-25
+323,Development Men's Wear 761,Clothing,Men's Wear,Miller LLC,492.99,324.21,Prince LLC,2024-11-13
+324,Drive Women's Wear 486,Clothing,Women's Wear,Cantu-Garcia,51.23,26.07,Acosta-Reed,2024-11-24
+325,Number Footwear 304,Clothing,Footwear,Harper-Scott,969.33,570.8,"Brown, Ray and Lewis",2024-08-06
+326,School Accessories 279,Clothing,Accessories,Patrick LLC,698.51,321.1,Jones and Sons,2023-12-18
+327,One Women's Wear 849,Clothing,Women's Wear,"Maldonado, Cruz and Hutchinson",454.07,312.97,"Tran, Johnson and Santiago",2024-04-16
+328,Six Men's Wear 583,Clothing,Men's Wear,Smith Group,829.45,545.19,"Lopez, Hamilton and Anderson",2024-09-14
+329,Democrat Accessories 989,Clothing,Accessories,"Diaz, Navarro and Henry",361.21,162.1,"Moore, Gibson and Parker",2025-09-23
+330,Forward Accessories 271,Clothing,Accessories,"Wilson, Valentine and Patel",863.94,477.32,Webster Ltd,2023-07-04
+331,Sound Women's Wear 998,Clothing,Women's Wear,Thompson-Mcclure,420.09,227.46,"Taylor, Johnson and Garcia",2023-12-18
+332,Game Kids Wear 222,Clothing,Kids Wear,Johnson Ltd,630.03,264.58,Brown-Moore,2024-10-03
+333,Least Lighting 370,Home & Garden,Lighting,Dennis LLC,648.54,439.39,Arnold-Palmer,2022-12-04
+334,Probably Furniture 215,Home & Garden,Furniture,Carroll-Cox,293.73,118.59,Mckee PLC,2022-12-15
+335,Later Garden Tools 566,Home & Garden,Garden Tools,Davis-Green,899.01,530.47,"Johnson, Smith and Barrera",2023-03-11
+336,Interesting Garden Tools 437,Home & Garden,Garden Tools,Frye-Garcia,405.9,170.77,Jackson-Allen,2025-11-03
+337,Social Lighting 714,Home & Garden,Lighting,"Morgan, Alvarado and White",642.22,268.12,Wilson-Navarro,2024-05-18
+338,Including Kitchen 872,Home & Garden,Kitchen,Miller and Sons,585.45,262.0,Collins and Sons,2025-09-02
+339,Across Decor 497,Home & Garden,Decor,Morris Inc,504.42,234.42,Wilson and Sons,2024-01-24
+340,Age Kitchen 958,Home & Garden,Kitchen,Taylor Group,113.86,69.04,Reyes Group,2025-04-26
+341,Record Lighting 849,Home & Garden,Lighting,Miranda-Mcclure,767.2,374.72,"Montgomery, Burke and Martin",2023-06-24
+342,Thousand Garden Tools 894,Home & Garden,Garden Tools,Smith and Sons,29.67,19.35,Webb LLC,2024-08-17
+343,Available Garden Tools 877,Home & Garden,Garden Tools,"Neal, Sutton and Howard",997.99,545.33,Hall-Molina,2024-09-20
+344,Recognize Kitchen 212,Home & Garden,Kitchen,"Weaver, Gomez and Klein",581.59,355.63,Henderson and Sons,2024-05-03
+345,Skill Furniture 734,Home & Garden,Furniture,Hoover-Bonilla,902.34,494.09,Payne LLC,2025-03-31
+346,Score Garden Tools 930,Home & Garden,Garden Tools,"Reyes, Williams and Tucker",625.34,415.46,Anderson PLC,2023-10-10
+347,Professor Kitchen 165,Home & Garden,Kitchen,"Larsen, Gonzalez and Baker",337.7,189.27,"Moore, Campbell and Sheppard",2023-09-01
+348,Interview Decor 610,Home & Garden,Decor,Chapman LLC,952.98,512.52,Smith-Washington,2025-04-23
+349,Year Furniture 902,Home & Garden,Furniture,Smith-Turner,253.84,157.6,Gray-Savage,2024-11-09
+350,Number Decor 551,Home & Garden,Decor,"Simpson, Sloan and Jennings",33.86,17.7,Brown Inc,2023-11-03
+351,Degree Garden Tools 152,Home & Garden,Garden Tools,"Hansen, Griffin and Ewing",317.43,187.31,"Smith, Martin and Edwards",2023-02-03
+352,While Lighting 146,Home & Garden,Lighting,Miller LLC,216.9,116.14,Mccarty-Wilson,2025-03-05
+353,Black Garden Tools 749,Home & Garden,Garden Tools,"Finley, Green and Hutchinson",796.95,503.47,"Hart, Palmer and Jones",2025-01-07
+354,Light Furniture 863,Home & Garden,Furniture,"Allen, Taylor and Patrick",945.76,631.09,"Dunn, Yates and Mays",2023-04-06
+355,Like Kitchen 795,Home & Garden,Kitchen,Murray-Francis,214.23,95.17,Baker-Gallagher,2024-10-29
+356,Herself Lighting 646,Home & Garden,Lighting,Mosley-Anderson,761.89,443.67,"Schmidt, Phillips and Cameron",2024-04-21
+357,Worry Decor 185,Home & Garden,Decor,Glass LLC,577.04,253.39,Ramsey Group,2024-12-12
+358,Right Furniture 364,Home & Garden,Furniture,"Rose, Mills and Taylor",355.11,228.62,Jackson-Kim,2023-09-11
+359,Light Kitchen 800,Home & Garden,Kitchen,"Peterson, Jackson and Hernandez",317.49,176.77,Mack Group,2024-01-18
+360,Which Lighting 964,Home & Garden,Lighting,Rivera LLC,908.13,480.32,Brown-Hamilton,2024-07-20
+361,Yard Kitchen 363,Home & Garden,Kitchen,Kirk-Savage,139.13,59.64,"Hayes, Mathews and Rollins",2023-10-07
+362,Science Garden Tools 763,Home & Garden,Garden Tools,Ayala-Jackson,877.84,432.7,Stephens-Rogers,2023-08-14
+363,Agree Decor 207,Home & Garden,Decor,Adams LLC,131.07,74.06,Mitchell-Fleming,2025-11-10
+364,Matter Kitchen 711,Home & Garden,Kitchen,Mcintyre Group,84.61,43.15,Strong and Sons,2023-12-16
+365,Walk Kitchen 405,Home & Garden,Kitchen,"Butler, James and Barnes",440.96,267.82,"Harrison, Morgan and Park",2023-08-12
+366,Fill Kitchen 326,Home & Garden,Kitchen,Perez-Cantrell,453.07,192.49,Buchanan and Sons,2023-05-02
+367,Simply Furniture 916,Home & Garden,Furniture,"Torres, Rogers and Watson",110.87,47.16,Mckinney and Sons,2023-08-24
+368,Create Furniture 832,Home & Garden,Furniture,"Rios, Smith and Lee",806.89,539.83,Russell Ltd,2023-08-21
+369,Where Kitchen 961,Home & Garden,Kitchen,"Young, Brown and Scott",179.96,85.14,Hancock-Briggs,2025-06-27
+370,Discussion Decor 375,Home & Garden,Decor,Harris-Jensen,502.04,256.37,Deleon PLC,2024-04-24
+371,Raise Lighting 649,Home & Garden,Lighting,Walters-Marquez,475.82,206.38,Chen Ltd,2024-08-21
+372,Star Furniture 163,Home & Garden,Furniture,Shelton-Boyd,298.14,129.19,Roberts-Robbins,2024-01-22
+373,How Furniture 572,Home & Garden,Furniture,Dean-Wade,792.69,323.32,Baker-Carroll,2024-08-13
+374,Food Lighting 429,Home & Garden,Lighting,"Ramirez, Gonzalez and Lopez",506.05,321.46,Anderson-Jones,2023-03-01
+375,Provide Furniture 523,Home & Garden,Furniture,Anderson LLC,591.58,372.57,Thompson Inc,2024-07-21
+376,Billion Lighting 904,Home & Garden,Lighting,Chan-Dodson,298.12,120.82,Valentine Inc,2023-06-29
+377,Here Furniture 159,Home & Garden,Furniture,Cooper LLC,117.42,53.65,Campos Inc,2023-05-10
+378,Try Kitchen 776,Home & Garden,Kitchen,Cruz and Sons,672.25,364.84,"Taylor, Jordan and Santana",2025-03-30
+379,Her Lighting 332,Home & Garden,Lighting,Jackson-Hill,620.2,418.76,Savage PLC,2024-09-27
+380,Apply Lighting 266,Home & Garden,Lighting,Campbell-Santos,958.65,504.4,Richardson PLC,2023-07-01
+381,Owner Lighting 427,Home & Garden,Lighting,Fox-Roberts,482.67,337.35,Taylor Ltd,2025-10-05
+382,North Furniture 191,Home & Garden,Furniture,Mason-Doyle,975.07,415.67,Mosley-Norris,2023-07-07
+383,Join Decor 533,Home & Garden,Decor,Cruz Ltd,66.68,41.54,Wilkinson PLC,2025-03-23
+384,Land Lighting 317,Home & Garden,Lighting,"Byrd, Phillips and Lewis",415.45,226.56,"Goodman, Carpenter and Campos",2024-12-12
+385,Past Kitchen 181,Home & Garden,Kitchen,"Hurst, Oliver and Beasley",279.38,119.26,"Burns, Ryan and Holmes",2024-09-15
+386,Play Lighting 302,Home & Garden,Lighting,Sweeney LLC,398.13,211.31,Carter and Sons,2023-10-14
+387,Agent Furniture 610,Home & Garden,Furniture,Montgomery-Mcdaniel,737.4,441.88,"Ford, Robinson and Cole",2023-05-29
+388,Challenge Lighting 353,Home & Garden,Lighting,"Ross, Lewis and Ellis",739.83,509.34,Grimes-Young,2025-08-19
+389,Get Decor 193,Home & Garden,Decor,"Franklin, Bowen and Murray",984.34,556.77,Dunn Ltd,2024-01-06
+390,American Lighting 176,Home & Garden,Lighting,Fox Ltd,400.61,258.12,"Smith, Burns and Moore",2023-07-31
+391,Common Decor 103,Home & Garden,Decor,"Young, Horn and Weiss",204.47,86.26,"Wells, Harris and Martin",2023-08-11
+392,Thousand Kitchen 582,Home & Garden,Kitchen,"Garcia, Schaefer and Mccarthy",952.74,603.68,"Moore, Moore and Hess",2022-12-13
+393,Writer Furniture 631,Home & Garden,Furniture,White PLC,929.23,466.26,"Baker, Galvan and Beasley",2025-06-04
+394,List Lighting 671,Home & Garden,Lighting,Bishop-Davis,918.51,606.14,Taylor-Valentine,2023-09-19
+395,Blood Kitchen 634,Home & Garden,Kitchen,Stevens PLC,455.33,245.65,"Mendez, Woods and Moreno",2025-02-24
+396,Final Lighting 167,Home & Garden,Lighting,Silva Inc,79.79,50.51,Campbell-Kelley,2023-02-23
+397,Husband Garden Tools 328,Home & Garden,Garden Tools,"Clark, Gray and Hudson",37.93,23.65,"Castro, Wilson and Johnson",2025-10-27
+398,Figure Garden Tools 330,Home & Garden,Garden Tools,Gutierrez LLC,990.66,517.9,Ross LLC,2023-08-31
+399,Particularly Decor 422,Home & Garden,Decor,Mccormick-Franco,250.89,155.98,"Moreno, Williams and White",2025-03-04
+400,Production Decor 459,Home & Garden,Decor,"Anderson, Thomas and Francis",471.51,209.97,Marsh PLC,2024-11-09
+401,Heavy Decor 881,Home & Garden,Decor,"Lewis, Chen and Wilson",275.5,187.47,Campbell Ltd,2025-09-15
+402,A Kitchen 391,Home & Garden,Kitchen,Hunt PLC,676.89,462.44,Ferguson Inc,2023-11-18
+403,Public Decor 734,Home & Garden,Decor,Mills and Sons,781.59,492.89,Barnes-Larsen,2025-08-26
+404,Pressure Garden Tools 245,Home & Garden,Garden Tools,"Clay, Johnson and Rodriguez",572.64,295.42,Cooke Inc,2024-04-15
+405,Single Kitchen 964,Home & Garden,Kitchen,Mcgrath-Henderson,446.96,179.76,"Franklin, Riddle and Wright",2023-04-08
+406,Political Garden Tools 419,Home & Garden,Garden Tools,"Li, Hoffman and Hernandez",215.75,107.62,Morris Group,2024-07-13
+407,Middle Kitchen 698,Home & Garden,Kitchen,Taylor Group,777.54,434.19,Keith-Arnold,2024-04-25
+408,Film Garden Tools 637,Home & Garden,Garden Tools,Hancock LLC,672.61,312.92,"Martin, Bailey and Delgado",2023-05-14
+409,Power Kitchen 936,Home & Garden,Kitchen,"Thomas, Mitchell and Pearson",971.14,528.4,"Mclaughlin, Obrien and Roy",2024-08-07
+410,Program Garden Tools 724,Home & Garden,Garden Tools,Barrett Ltd,183.63,120.36,Lang-Walker,2025-09-24
+411,Drive Lighting 549,Home & Garden,Lighting,Vasquez-Walker,264.46,171.41,Waters Ltd,2024-03-19
+412,Trip Kitchen 125,Home & Garden,Kitchen,"Simmons, Myers and Thompson",210.38,86.36,Perkins Group,2022-12-09
+413,Through Decor 176,Home & Garden,Decor,Cortez-Rodriguez,174.12,112.93,Zimmerman-Brown,2025-11-17
+414,Instead Kitchen 644,Home & Garden,Kitchen,Leonard-Smith,809.46,342.83,Stanton-Martinez,2025-02-15
+415,Will Decor 408,Home & Garden,Decor,Chaney-Moreno,991.53,475.12,Lyons Ltd,2023-11-30
+416,Member Lighting 560,Home & Garden,Lighting,Galvan LLC,214.71,145.65,Cooper-Higgins,2025-11-15
+417,Floor Lighting 145,Home & Garden,Lighting,Martinez-Cline,175.24,92.51,"Carlson, Martinez and Whitney",2024-09-08
+418,Fear Furniture 105,Home & Garden,Furniture,Martinez-Rangel,71.81,32.47,Howard-Ross,2024-12-08
+419,Tax Garden Tools 513,Home & Garden,Garden Tools,"Noble, Elliott and Flores",285.47,125.83,Bell-Nguyen,2023-05-09
+420,Go Kitchen 846,Home & Garden,Kitchen,Murray and Sons,261.38,174.49,Rodriguez-Smith,2025-07-19
+421,Smile Furniture 133,Home & Garden,Furniture,Acosta-Ward,401.42,253.26,"Sloan, Robinson and English",2025-03-08
+422,Indicate Furniture 797,Home & Garden,Furniture,Carpenter-Mendoza,421.29,180.82,"Martinez, King and Cox",2024-06-03
+423,Different Garden Tools 557,Home & Garden,Garden Tools,"Bowen, Larson and Smith",839.96,384.59,Zavala Ltd,2024-07-13
+424,Right Garden Tools 718,Home & Garden,Garden Tools,"Brewer, Wilson and Ferguson",100.97,65.35,Jones LLC,2025-09-06
+425,After Garden Tools 713,Home & Garden,Garden Tools,Bennett-Garcia,212.16,127.75,"Eaton, Owens and Gonzalez",2023-06-12
+426,Future Kitchen 983,Home & Garden,Kitchen,Schultz Ltd,448.57,238.64,Howard-Gonzalez,2024-03-04
+427,Eight Kitchen 452,Home & Garden,Kitchen,"Gonzalez, Hayes and Taylor",988.09,615.6,Bradford-Davis,2023-11-12
+428,Number Lighting 278,Home & Garden,Lighting,"Velazquez, Johnston and Hampton",145.39,64.97,"Scott, Spencer and Weber",2024-06-27
+429,Option Kitchen 357,Home & Garden,Kitchen,"Young, Landry and Perez",507.95,266.76,Stein Ltd,2024-10-28
+430,Audience Lighting 597,Home & Garden,Lighting,"Welch, Sutton and Bennett",248.5,155.35,Griffin PLC,2023-02-09
+431,Only Kitchen 476,Home & Garden,Kitchen,"Vasquez, Branch and Sawyer",239.01,101.19,Cervantes-Robinson,2023-06-06
+432,Not Furniture 802,Home & Garden,Furniture,Andrews PLC,376.4,203.72,Bell-Nelson,2023-04-01
+433,Student Lighting 962,Home & Garden,Lighting,Mercado PLC,346.92,230.76,Davis Group,2024-02-17
+434,Expect Decor 127,Home & Garden,Decor,Parker LLC,133.6,70.3,"Lloyd, Mcgrath and Williams",2024-02-06
+435,Impact Kitchen 202,Home & Garden,Kitchen,Mueller-Serrano,456.91,314.27,Savage LLC,2024-09-12
+436,Least Decor 965,Home & Garden,Decor,"Smith, Barton and Johnson",810.41,443.98,Parker and Sons,2024-08-09
+437,Soldier Kitchen 506,Home & Garden,Kitchen,Irwin Group,269.19,135.52,Ross-Anderson,2024-12-13
+438,Official Decor 313,Home & Garden,Decor,"Jenkins, Brown and Turner",754.21,323.63,"Kramer, Gordon and Park",2023-10-27
+439,Really Furniture 175,Home & Garden,Furniture,"Christensen, Shelton and Kirk",337.51,171.93,"Cortez, Heath and Collins",2024-06-02
+440,Thus Kitchen 499,Home & Garden,Kitchen,"Tucker, Hughes and Ferguson",386.57,222.66,Howard-Clark,2023-05-04
+441,Project Kitchen 920,Home & Garden,Kitchen,Taylor PLC,237.34,136.76,"Mcdaniel, Blair and Hughes",2023-12-24
+442,Protect Decor 907,Home & Garden,Decor,"Morris, Cruz and Morgan",660.71,271.05,"Wright, Hale and Rodriguez",2025-06-14
+443,Effect Kitchen 822,Home & Garden,Kitchen,"Sims, Johnson and Brown",561.8,382.24,Mason PLC,2023-01-22
+444,Fire Furniture 582,Home & Garden,Furniture,Chavez-Weber,873.33,414.19,Carroll-Mercado,2025-08-03
+445,Listen Decor 647,Home & Garden,Decor,Whitney and Sons,530.06,284.58,"Glover, Pierce and Barrera",2025-05-27
+446,Plan Garden Tools 177,Home & Garden,Garden Tools,"Cox, Patel and Reyes",125.64,64.68,Salazar-Carr,2023-04-21
+447,Position Furniture 179,Home & Garden,Furniture,"Martinez, Solomon and Lam",485.55,300.71,Bradley-Gordon,2024-05-02
+448,By Kitchen 246,Home & Garden,Kitchen,"White, Evans and Garcia",272.96,170.55,Marquez Group,2023-06-15
+449,Old Garden Tools 293,Home & Garden,Garden Tools,Poole LLC,872.7,358.3,"Williams, Long and Thompson",2024-12-29
+450,Issue Lighting 335,Home & Garden,Lighting,"Schaefer, Hughes and Wagner",748.76,506.0,"Schmidt, Day and Smith",2023-12-15
+451,White Garden Tools 272,Home & Garden,Garden Tools,"Willis, Cantrell and Guzman",310.56,213.98,Butler-Hall,2025-11-28
+452,Bill Lighting 570,Home & Garden,Lighting,Ramirez-Pierce,363.08,145.78,"Lee, Lane and Berry",2022-12-22
+453,Thousand Lighting 230,Home & Garden,Lighting,Carter-Moore,230.72,101.39,"Avila, West and Harvey",2023-04-25
+454,Toward Garden Tools 408,Home & Garden,Garden Tools,"Blair, Long and King",886.73,593.83,Morgan PLC,2023-01-11
+455,Face Kitchen 953,Home & Garden,Kitchen,Bell-White,482.97,199.89,Montoya PLC,2023-10-09
+456,And Decor 390,Home & Garden,Decor,Lawson Ltd,984.44,492.38,Arias-Garner,2023-08-27
+457,Bed Decor 787,Home & Garden,Decor,Ward LLC,423.56,200.66,Moreno-Freeman,2024-05-04
+458,Choice Garden Tools 522,Home & Garden,Garden Tools,Thomas PLC,118.06,62.58,"Garcia, Smith and Arroyo",2023-09-15
+459,Find Garden Tools 108,Home & Garden,Garden Tools,Rowe Group,704.33,425.68,"Smith, Owens and Herrera",2023-12-10
+460,Human Lighting 163,Home & Garden,Lighting,Torres-Spencer,724.38,336.76,Jones Ltd,2025-10-28
+461,Star Kitchen 705,Home & Garden,Kitchen,Herrera-Sanders,578.71,334.75,Kim Inc,2024-08-05
+462,Figure Decor 492,Home & Garden,Decor,Ferguson-Sanchez,994.77,442.42,Warren and Sons,2023-12-20
+463,Pretty Garden Tools 128,Home & Garden,Garden Tools,"Li, Martin and Gonzalez",51.55,25.42,Reed Ltd,2023-09-11
+464,Central Kitchen 294,Home & Garden,Kitchen,"Diaz, Hill and Parker",370.29,230.95,"Morgan, Smith and Logan",2023-05-01
+465,Drug Decor 478,Home & Garden,Decor,Vaughn Ltd,266.02,158.09,Cook LLC,2024-09-22
+466,Summer Lighting 204,Home & Garden,Lighting,Smith Group,427.33,226.08,Goodman LLC,2024-07-15
+467,Option Kitchen 727,Home & Garden,Kitchen,"Barker, Nelson and Robinson",783.49,449.33,Erickson and Sons,2025-11-26
+468,Meeting Decor 412,Home & Garden,Decor,Rivera and Sons,790.59,363.78,"Chandler, Green and Wilson",2023-02-20
+469,Dream Decor 485,Home & Garden,Decor,Ramos and Sons,17.1,9.32,Clark Group,2023-02-23
+470,Statement Furniture 295,Home & Garden,Furniture,Hogan and Sons,643.96,372.83,Vincent-Dean,2023-03-30
+471,Movie Garden Tools 963,Home & Garden,Garden Tools,Burke and Sons,505.25,279.48,Brown LLC,2023-04-04
+472,Deep Kitchen 568,Home & Garden,Kitchen,"Cohen, King and Nichols",694.56,345.65,Barnett Group,2024-04-07
+473,Significant Garden Tools 619,Home & Garden,Garden Tools,"Jensen, Cowan and Wolf",675.22,284.45,Williams-Collins,2024-03-30
+474,Ten Kitchen 462,Home & Garden,Kitchen,Fernandez-Gutierrez,514.01,331.53,Bishop-Farmer,2024-07-29
+475,My Furniture 612,Home & Garden,Furniture,Washington-Johnston,624.14,304.46,Hart Group,2024-01-07
+476,Change Decor 940,Home & Garden,Decor,Rodriguez LLC,949.17,657.99,"Ramos, Gibson and Hobbs",2023-01-03
+477,Find Decor 735,Home & Garden,Decor,Kidd Ltd,328.58,131.71,Norris-Hendricks,2024-08-18
+478,Establish Decor 985,Home & Garden,Decor,Mitchell-Terry,886.14,583.57,Williams Inc,2025-06-11
+479,Represent Lighting 267,Home & Garden,Lighting,Gordon and Sons,82.33,38.87,"Roberts, Gray and Davis",2023-11-25
+480,Here Decor 675,Home & Garden,Decor,"Baker, Davis and Vance",813.81,346.66,Williams-Adams,2025-04-29
+481,Local Decor 106,Home & Garden,Decor,"Gomez, Washington and Garcia",609.7,276.6,"Nelson, Robinson and Ford",2024-03-13
+482,Travel Kitchen 164,Home & Garden,Kitchen,Brown-Allen,263.71,181.53,Smith PLC,2025-03-16
+483,High Garden Tools 896,Home & Garden,Garden Tools,"Allen, Brown and Gilbert",34.08,19.97,Hernandez-Herrera,2025-11-02
+484,Car Lighting 840,Home & Garden,Lighting,Blankenship-Mays,579.1,377.35,"Bishop, Davies and Walls",2023-02-21
+485,Personal Kitchen 262,Home & Garden,Kitchen,Flores Inc,514.18,297.64,Clements PLC,2025-03-04
+486,Mission Kitchen 724,Home & Garden,Kitchen,Avila-Johnson,973.87,517.39,"Hogan, Cox and Williams",2024-04-30
+487,Finish Furniture 974,Home & Garden,Furniture,Lowe-Burns,515.76,336.39,Serrano-Williamson,2023-12-24
+488,Camera Furniture 627,Home & Garden,Furniture,Hudson-Mathews,573.2,357.32,"Boyd, Drake and Cruz",2024-10-05
+489,See Kitchen 159,Home & Garden,Kitchen,"Parker, Bridges and Mcmillan",728.95,417.26,"Weaver, Barnes and Morton",2024-05-24
+490,Right Kitchen 870,Home & Garden,Kitchen,"Steele, Craig and Mccormick",370.59,156.83,Rice Ltd,2023-12-26
+491,Movement Kitchen 543,Home & Garden,Kitchen,Rhodes-Jackson,952.05,497.35,Holden-Page,2025-04-23
+492,Son Lighting 802,Home & Garden,Lighting,"Cook, Williams and Burgess",774.75,484.77,Garcia Group,2023-08-07
+493,Require Decor 779,Home & Garden,Decor,Cook PLC,716.62,410.44,Hull-Klein,2023-09-09
+494,Claim Garden Tools 798,Home & Garden,Garden Tools,Davis-Elliott,339.61,189.06,Rose-Newman,2023-06-26
+495,Over Kitchen 968,Home & Garden,Kitchen,Pineda-Smith,368.25,188.91,Powers Inc,2022-12-10
+496,Step Furniture 110,Home & Garden,Furniture,Ramos-Martin,769.96,314.63,Johnson LLC,2025-07-20
+497,Few Decor 561,Home & Garden,Decor,"Murray, Cameron and Short",639.33,333.67,"Hunt, Smith and Webb",2024-03-09
+498,Know Garden Tools 561,Home & Garden,Garden Tools,"Ball, Mata and King",340.97,183.87,Alexander Group,2023-11-24
+499,Reveal Team Sports 405,Sports,Team Sports,"Williams, Jones and Bryant",466.8,206.66,"Dillon, Mejia and Ho",2023-07-02
+500,Sure Team Sports 423,Sports,Team Sports,King-Meyer,955.41,501.16,"Miller, Atkinson and Buckley",2022-12-20
+501,Other Outdoor Gear 197,Sports,Outdoor Gear,"Dalton, Waters and Herman",860.6,445.48,"Marshall, Smith and Fowler",2024-10-31
+502,Next Team Sports 228,Sports,Team Sports,Fuller-King,195.98,133.21,"Roberts, Clements and Vargas",2025-06-17
+503,Exist Fitness Equipment 256,Sports,Fitness Equipment,Steele-Torres,162.53,96.9,James Ltd,2023-08-22
+504,Image Team Sports 811,Sports,Team Sports,Myers PLC,803.23,439.32,"Thornton, Johnson and Martin",2023-02-20
+505,Voice Team Sports 990,Sports,Team Sports,"Warner, Gonzalez and Barnes",913.13,586.54,Edwards-Singleton,2024-04-13
+506,Change Team Sports 428,Sports,Team Sports,Ramos LLC,741.83,298.89,"Hale, Reed and Martinez",2025-01-03
+507,Three Team Sports 793,Sports,Team Sports,Clark and Sons,354.56,187.14,"Gardner, Goodman and Adkins",2024-07-27
+508,Management Team Sports 239,Sports,Team Sports,Ortiz-Wilson,385.96,179.83,Ruiz LLC,2023-11-11
+509,Serious Outdoor Gear 414,Sports,Outdoor Gear,Stewart-Hoffman,826.0,358.11,Serrano Ltd,2023-02-05
+510,Campaign Outdoor Gear 634,Sports,Outdoor Gear,Green Group,794.77,550.5,Chen-Harrison,2024-09-14
+511,Expert Athletic Wear 399,Sports,Athletic Wear,Thompson Group,327.88,202.27,Deleon Inc,2025-02-14
+512,Conference Fitness Equipment 452,Sports,Fitness Equipment,"Hayes, Martin and Wilson",194.48,86.19,Williams Group,2024-04-26
+513,Question Fitness Equipment 507,Sports,Fitness Equipment,Ford-George,342.1,157.41,"Brown, Wilkerson and Logan",2025-06-18
+514,Executive Athletic Wear 108,Sports,Athletic Wear,Adams-Santana,891.98,429.51,"May, Cox and Martin",2024-02-29
+515,Draw Team Sports 668,Sports,Team Sports,"Perez, Jones and Taylor",764.71,410.21,Clarke-Houston,2024-12-08
+516,Painting Fitness Equipment 273,Sports,Fitness Equipment,Hicks and Sons,950.36,579.01,Stout Inc,2025-09-25
+517,Nice Fitness Equipment 731,Sports,Fitness Equipment,Brown Ltd,13.52,6.28,"Anderson, Price and Swanson",2025-07-04
+518,Since Team Sports 569,Sports,Team Sports,Jones and Sons,747.25,492.69,Pham Group,2022-12-11
+519,Before Team Sports 132,Sports,Team Sports,Turner-Alexander,256.74,147.25,"Dalton, Valenzuela and Chang",2023-03-28
+520,Us Team Sports 387,Sports,Team Sports,Edwards-Miller,592.06,335.83,"Baker, Moyer and Rodriguez",2023-02-03
+521,Seem Fitness Equipment 652,Sports,Fitness Equipment,Lopez Group,182.06,106.11,Fox-Wood,2023-04-16
+522,No Team Sports 434,Sports,Team Sports,"Allen, Black and Murphy",614.29,383.68,Gonzalez-Jordan,2023-10-05
+523,Year Team Sports 887,Sports,Team Sports,"Hunt, Lewis and Willis",377.07,233.88,"Mcbride, Mccarty and Martinez",2023-01-11
+524,Lay Athletic Wear 568,Sports,Athletic Wear,Howe-Bailey,755.23,384.47,Parks LLC,2023-11-28
+525,Rather Outdoor Gear 576,Sports,Outdoor Gear,Chambers LLC,640.31,413.64,White PLC,2025-08-08
+526,Nature Outdoor Gear 353,Sports,Outdoor Gear,"Adams, Davis and Johnson",157.94,79.37,Williams-Garcia,2025-06-13
+527,Lot Outdoor Gear 494,Sports,Outdoor Gear,"Bullock, Holland and Hernandez",945.74,401.51,"Stewart, Richards and Guzman",2024-05-30
+528,Senior Fitness Equipment 900,Sports,Fitness Equipment,Wheeler-Nguyen,827.81,512.5,Owen Ltd,2024-03-22
+529,Of Athletic Wear 393,Sports,Athletic Wear,Paul-Castillo,939.5,486.31,Lam-Patrick,2024-11-22
+530,Then Team Sports 363,Sports,Team Sports,Haley Inc,865.39,465.91,Allen Ltd,2023-04-17
+531,Trial Fitness Equipment 922,Sports,Fitness Equipment,Chen PLC,941.13,431.19,Lee Group,2024-05-20
+532,Candidate Fitness Equipment 116,Sports,Fitness Equipment,Ward LLC,261.44,106.09,Sweeney-Lewis,2025-01-14
+533,Government Outdoor Gear 317,Sports,Outdoor Gear,Haynes LLC,988.52,398.86,"Montgomery, Smith and Stanton",2025-03-27
+534,Sea Team Sports 218,Sports,Team Sports,Clark Inc,332.15,201.69,Henderson PLC,2023-01-15
+535,Despite Outdoor Gear 751,Sports,Outdoor Gear,Watts-Carlson,730.77,305.59,May Inc,2024-01-11
+536,Full Outdoor Gear 296,Sports,Outdoor Gear,"Caldwell, Bean and Weaver",916.93,547.98,Gutierrez Ltd,2025-11-18
+537,Every Fitness Equipment 339,Sports,Fitness Equipment,Castillo-Duran,187.12,125.77,Brown Group,2024-09-05
+538,Three Team Sports 921,Sports,Team Sports,Tucker-Walls,441.32,304.37,Carr and Sons,2025-03-07
+539,Seat Outdoor Gear 810,Sports,Outdoor Gear,"West, Zhang and Taylor",42.96,20.98,"Lewis, Carlson and Knapp",2022-12-03
+540,Happen Outdoor Gear 340,Sports,Outdoor Gear,Brock-Stevenson,895.67,529.46,"Turner, Torres and Clark",2025-05-20
+541,Listen Team Sports 205,Sports,Team Sports,Richardson and Sons,389.4,167.61,"Harris, Bartlett and Douglas",2024-01-06
+542,His Team Sports 218,Sports,Team Sports,"Thomas, Rojas and Robinson",427.17,236.51,Evans and Sons,2024-09-14
+543,Military Athletic Wear 733,Sports,Athletic Wear,Long-Odonnell,997.05,680.77,Goodman Group,2024-04-25
+544,Analysis Outdoor Gear 867,Sports,Outdoor Gear,"Harris, Schneider and Glenn",48.77,28.01,"Thomas, Mitchell and Lewis",2023-04-05
+545,Everything Fitness Equipment 682,Sports,Fitness Equipment,Roberts Group,183.49,84.37,Beasley-Roberts,2024-02-13
+546,House Outdoor Gear 585,Sports,Outdoor Gear,Meyer-Burns,845.26,578.56,Rodriguez Ltd,2025-08-12
+547,Table Outdoor Gear 109,Sports,Outdoor Gear,Lee and Sons,476.46,204.99,"Perkins, Jackson and Navarro",2025-04-20
+548,Budget Athletic Wear 882,Sports,Athletic Wear,Smith-Turner,158.61,75.93,"Williams, Bennett and Espinoza",2025-11-04
+549,Style Athletic Wear 278,Sports,Athletic Wear,Dixon Inc,17.08,9.81,Roberts-Duarte,2025-09-26
+550,Growth Team Sports 957,Sports,Team Sports,Finley PLC,622.12,366.59,"Lynch, Higgins and Miller",2023-02-24
+551,Poor Outdoor Gear 911,Sports,Outdoor Gear,Rodriguez-Anderson,701.31,381.89,"Wallace, Rich and Bell",2025-09-15
+552,Various Athletic Wear 287,Sports,Athletic Wear,Ramirez Ltd,603.3,353.78,"Olson, Wolfe and Rojas",2024-04-07
+553,Go Outdoor Gear 844,Sports,Outdoor Gear,"Kane, Marquez and Hayes",678.66,386.51,Miller-Bryant,2025-03-14
+554,Seat Fitness Equipment 696,Sports,Fitness Equipment,Lewis-Wiley,583.14,318.63,"Berry, Higgins and Li",2023-03-29
+555,Her Team Sports 824,Sports,Team Sports,"Hunter, Roberson and Burns",737.05,498.97,"Harrison, Cameron and Knight",2024-03-04
+556,Already Fitness Equipment 371,Sports,Fitness Equipment,"Gutierrez, Kennedy and Smith",169.51,117.34,Lowe Inc,2025-05-04
+557,Evidence Outdoor Gear 737,Sports,Outdoor Gear,Trevino-Wheeler,935.51,608.11,"Burton, Hines and Smith",2025-07-24
+558,Would Athletic Wear 510,Sports,Athletic Wear,"Short, Johnston and Hill",256.08,119.48,Osborn-Garcia,2024-07-14
+559,Court Athletic Wear 101,Sports,Athletic Wear,Thompson-Johnson,145.51,90.98,"Parker, Stanton and Romero",2024-10-12
+560,Wife Athletic Wear 975,Sports,Athletic Wear,Hawkins and Sons,371.82,173.72,Hess-Todd,2025-01-18
+561,Someone Outdoor Gear 463,Sports,Outdoor Gear,Matthews Ltd,356.36,215.95,Ray-Rubio,2024-12-03
+562,Middle Athletic Wear 801,Sports,Athletic Wear,Jones-Martinez,779.98,388.4,Johnson-Williams,2023-05-21
+563,It Athletic Wear 605,Sports,Athletic Wear,Clark Ltd,635.57,271.57,"Torres, White and Smith",2024-03-16
+564,Raise Outdoor Gear 799,Sports,Outdoor Gear,"Roman, Morales and Patterson",653.92,264.53,Fernandez PLC,2025-04-01
+565,Kitchen Athletic Wear 139,Sports,Athletic Wear,Johnson-Jones,56.94,24.55,"Owens, Garner and Bryan",2023-12-25
+566,Piece Outdoor Gear 862,Sports,Outdoor Gear,Hancock PLC,502.92,347.82,Johnson Inc,2023-11-01
+567,Available Athletic Wear 483,Sports,Athletic Wear,Blair-Mason,760.29,443.9,"Ramirez, Bell and Collins",2023-07-28
+568,On Team Sports 414,Sports,Team Sports,"Howard, Martinez and Jackson",378.58,204.06,Williams and Sons,2024-01-02
+569,Travel Athletic Wear 710,Sports,Athletic Wear,Ford Group,276.58,115.66,Robinson-Bullock,2025-08-26
+570,They Team Sports 698,Sports,Team Sports,Elliott-Bowman,411.66,181.65,Montoya Inc,2024-09-02
+571,Language Fitness Equipment 300,Sports,Fitness Equipment,White-Lawrence,630.98,374.45,Hill-Cole,2023-07-23
+572,Natural Fitness Equipment 862,Sports,Fitness Equipment,Rivas LLC,845.03,472.89,"Morgan, Thomas and Richards",2025-09-14
+573,Drop Outdoor Gear 528,Sports,Outdoor Gear,Morgan Group,460.07,211.18,Wilson and Sons,2024-06-14
+574,Around Outdoor Gear 860,Sports,Outdoor Gear,"Flores, Zimmerman and Benjamin",463.31,206.3,Hudson and Sons,2024-09-14
+575,House Fitness Equipment 200,Sports,Fitness Equipment,"Knight, Ingram and Clark",18.12,8.26,Russell-Moon,2023-01-20
+576,Must Athletic Wear 497,Sports,Athletic Wear,Gregory-Rivera,414.04,266.74,"Brooks, Long and Morgan",2024-02-19
+577,Town Team Sports 403,Sports,Team Sports,Rowe-Thomas,488.37,338.37,Leblanc PLC,2023-07-20
+578,Tv Outdoor Gear 156,Sports,Outdoor Gear,Lang LLC,471.15,277.12,Torres Ltd,2023-03-11
+579,Executive Team Sports 263,Sports,Team Sports,Williams-Golden,539.48,305.01,"Morales, Camacho and Knapp",2024-06-16
+580,Available Fitness Equipment 538,Sports,Fitness Equipment,Fitzpatrick and Sons,806.62,425.7,"Rojas, Schwartz and Weber",2023-02-22
+581,Statement Outdoor Gear 143,Sports,Outdoor Gear,"Burton, Mullins and Jones",50.82,32.87,"Garcia, Liu and Waters",2024-06-22
+582,Ten Team Sports 889,Sports,Team Sports,"Williams, Perry and Gross",825.63,513.55,Yates-Brown,2023-06-17
+583,Senior Outdoor Gear 934,Sports,Outdoor Gear,Thornton-Ortiz,231.05,94.21,Nguyen-Cunningham,2023-06-02
+584,Entire Athletic Wear 829,Sports,Athletic Wear,Anderson and Sons,37.23,21.09,Lee-Chambers,2024-04-25
+585,Radio Fitness Equipment 530,Sports,Fitness Equipment,Thompson-Patrick,228.88,135.04,Ramirez and Sons,2025-10-31
+586,Onto Outdoor Gear 898,Sports,Outdoor Gear,Jensen Ltd,392.8,199.97,Crawford LLC,2022-12-28
+587,Long Team Sports 183,Sports,Team Sports,"Velazquez, Perez and Shaw",451.52,200.53,Berger-Rios,2023-08-29
+588,Agreement Fitness Equipment 609,Sports,Fitness Equipment,Jackson-Liu,562.7,240.6,Nicholson-Garrett,2023-10-14
+589,Population Outdoor Gear 284,Sports,Outdoor Gear,Pitts PLC,548.07,362.16,Kim and Sons,2024-05-11
+590,Free Fitness Equipment 402,Sports,Fitness Equipment,Miller and Sons,158.85,94.31,Weeks PLC,2025-11-16
+591,Itself Team Sports 720,Sports,Team Sports,Dean Ltd,372.56,225.36,Brooks PLC,2024-04-10
+592,Focus Fitness Equipment 567,Sports,Fitness Equipment,"Hernandez, Williams and Reyes",585.67,275.93,"Buckley, Proctor and Mckinney",2023-06-09
+593,Computer Athletic Wear 394,Sports,Athletic Wear,Daniels LLC,926.47,412.75,Chavez and Sons,2023-11-24
+594,Important Outdoor Gear 856,Sports,Outdoor Gear,Barnes-Morrow,730.55,491.17,Smith LLC,2024-01-16
+595,Form Outdoor Gear 574,Sports,Outdoor Gear,Webb-Williams,537.34,332.04,Simmons LLC,2023-05-28
+596,Coach Fitness Equipment 740,Sports,Fitness Equipment,"Jenkins, Soto and Decker",622.28,397.97,Young PLC,2025-09-29
+597,Today Team Sports 611,Sports,Team Sports,Garrett Inc,656.09,387.1,Mathews PLC,2024-10-30
+598,Your Outdoor Gear 748,Sports,Outdoor Gear,"Smith, Hayes and Lane",426.38,186.94,Fuentes-Clayton,2025-08-22
+599,Clear Outdoor Gear 846,Sports,Outdoor Gear,Olsen Inc,140.92,63.34,Lin-Brown,2025-03-31
+600,Experience Athletic Wear 537,Sports,Athletic Wear,Fleming Inc,507.16,328.68,Townsend-Daugherty,2024-08-17
+601,Man Outdoor Gear 375,Sports,Outdoor Gear,Schultz Group,197.64,102.18,Sherman-Barrett,2024-08-24
+602,Matter Outdoor Gear 429,Sports,Outdoor Gear,Weaver-Rasmussen,721.01,430.22,King Group,2023-02-24
+603,Discussion Team Sports 875,Sports,Team Sports,"Mathis, Kelly and Lee",736.26,412.87,"Garza, Stanton and Brown",2025-05-02
+604,Though Fitness Equipment 382,Sports,Fitness Equipment,Oconnor PLC,441.56,230.9,"Dunlap, Duke and Jenkins",2022-12-13
+605,Authority Fitness Equipment 248,Sports,Fitness Equipment,Franklin-Moore,520.42,328.29,"Melendez, Russell and Armstrong",2023-08-20
+606,Fear Fitness Equipment 262,Sports,Fitness Equipment,Murphy PLC,463.5,187.19,Taylor-Williams,2024-05-04
+607,Watch Outdoor Gear 988,Sports,Outdoor Gear,Guerrero-Rogers,632.44,309.98,"Lee, Case and Jones",2025-04-15
+608,Concern Team Sports 467,Sports,Team Sports,Martin Group,450.14,249.16,"Harris, White and Barber",2024-08-30
+609,Deep Fitness Equipment 264,Sports,Fitness Equipment,"Thompson, Barker and Burton",847.37,546.95,"Esparza, Simmons and Alvarez",2025-07-09
+610,Left Team Sports 622,Sports,Team Sports,Rhodes-Jackson,565.88,361.27,Wagner-Chapman,2025-09-17
+611,Suddenly Fitness Equipment 294,Sports,Fitness Equipment,"Frazier, Johnson and Brown",659.86,389.85,Martinez PLC,2023-11-19
+612,Surface Athletic Wear 476,Sports,Athletic Wear,"Carrillo, Robinson and Martinez",399.37,188.26,Mcdonald PLC,2024-01-16
+613,North Fitness Equipment 545,Sports,Fitness Equipment,Clements Ltd,332.79,211.26,Howe-Williams,2023-07-07
+614,Investment Fitness Equipment 657,Sports,Fitness Equipment,Mercer-Jackson,594.45,371.28,"Gonzalez, Rivera and Perez",2025-06-26
+615,Bar Athletic Wear 266,Sports,Athletic Wear,Lopez Group,761.36,521.62,Black Ltd,2024-03-20
+616,Age Athletic Wear 901,Sports,Athletic Wear,Stevens Inc,127.72,60.2,Munoz Ltd,2024-03-09
+617,However Fitness Equipment 163,Sports,Fitness Equipment,Flores-Juarez,889.07,475.14,Price-Paul,2024-09-06
+618,Because Fitness Equipment 232,Sports,Fitness Equipment,James-York,509.87,225.36,"Esparza, Conway and Nguyen",2024-11-24
+619,Area Team Sports 625,Sports,Team Sports,Taylor-Martinez,120.44,57.3,Rodriguez-Evans,2024-03-28
+620,Contain Outdoor Gear 503,Sports,Outdoor Gear,Bauer-Simmons,150.2,89.68,Navarro-Perez,2024-06-02
+621,Attack Athletic Wear 857,Sports,Athletic Wear,Thomas Inc,242.72,137.17,Woodard LLC,2025-09-30
+622,Response Team Sports 240,Sports,Team Sports,"Humphrey, Fisher and Bentley",454.0,309.48,Parrish-Gutierrez,2025-09-14
+623,Figure Team Sports 453,Sports,Team Sports,Sanders-Potter,686.85,374.98,Levy Inc,2025-06-14
+624,Worry Athletic Wear 197,Sports,Athletic Wear,Adams and Sons,912.15,576.71,"Sullivan, Walton and Mccoy",2024-04-03
+625,Subject Athletic Wear 331,Sports,Athletic Wear,"May, Barnes and Griffin",684.83,348.02,Lewis Inc,2023-12-25
+626,Despite Outdoor Gear 846,Sports,Outdoor Gear,"Cox, Newton and Reyes",320.47,210.04,Williams-Davis,2024-01-30
+627,Reach Outdoor Gear 309,Sports,Outdoor Gear,Moreno Ltd,659.32,394.81,Porter-Spears,2024-01-06
+628,With Athletic Wear 517,Sports,Athletic Wear,"Robinson, Acosta and Hill",280.06,177.61,"Blake, Cardenas and Arnold",2025-10-02
+629,Position Outdoor Gear 227,Sports,Outdoor Gear,"Fields, Brown and Lloyd",235.55,114.52,"Owens, West and Galvan",2025-01-09
+630,Administration Athletic Wear 612,Sports,Athletic Wear,Sanders-Singleton,959.06,436.41,Turner PLC,2024-08-18
+631,Contain Athletic Wear 220,Sports,Athletic Wear,"Taylor, Walls and Anderson",313.53,211.22,Roberson PLC,2023-05-12
+632,Try Fitness Equipment 815,Sports,Fitness Equipment,Garcia LLC,532.05,295.29,"Patel, King and Walker",2023-05-07
+633,Brother Outdoor Gear 126,Sports,Outdoor Gear,Flores-Romero,61.56,30.47,Davis-Stevenson,2025-02-09
+634,Air Team Sports 775,Sports,Team Sports,Juarez-Henson,676.42,328.65,Cunningham-Johnson,2025-02-19
+635,Produce Outdoor Gear 392,Sports,Outdoor Gear,Summers Ltd,251.95,134.04,"Wade, Howell and Jones",2024-05-31
+636,Soon Athletic Wear 435,Sports,Athletic Wear,"Taylor, Mclaughlin and Conrad",410.6,168.62,"Fox, Howard and Garcia",2024-12-21
+637,Policy Team Sports 187,Sports,Team Sports,Johnson-Rosario,344.22,238.59,"Little, Mcintosh and Graves",2025-07-04
+638,West Outdoor Gear 797,Sports,Outdoor Gear,Fletcher-Smith,880.85,509.75,Johnson-Carr,2023-04-25
+639,Pick Team Sports 780,Sports,Team Sports,"Moreno, Rice and Arnold",101.39,41.7,Horn and Sons,2024-11-21
+640,Cold Team Sports 969,Sports,Team Sports,Flores Group,433.01,219.24,Green-Moore,2023-12-04
+641,Although Team Sports 416,Sports,Team Sports,Powell Ltd,941.39,630.13,Cox Ltd,2023-10-07
+642,Tree Outdoor Gear 308,Sports,Outdoor Gear,"Lynch, Schwartz and Figueroa",939.97,478.08,"Brooks, Wallace and Nguyen",2024-04-15
+643,Store Team Sports 116,Sports,Team Sports,"Russell, Pratt and Martin",600.49,345.72,Thompson-Scott,2025-07-25
+644,Race Team Sports 247,Sports,Team Sports,Warner Ltd,931.99,614.83,"Booth, Richards and Cardenas",2023-12-31
+645,American Outdoor Gear 428,Sports,Outdoor Gear,"Mccall, Baker and Hernandez",895.12,365.32,Williams-Summers,2025-03-15
+646,Unit Outdoor Gear 158,Sports,Outdoor Gear,Evans and Sons,509.34,305.33,"Shelton, Mcgee and Davidson",2022-12-18
+647,Camera Team Sports 219,Sports,Team Sports,Miller-Rogers,174.09,83.95,"Adams, Holmes and Fitzpatrick",2025-02-22
+648,Contain Athletic Wear 613,Sports,Athletic Wear,Hahn-Scott,374.59,212.09,Jensen-Williams,2025-11-16
+649,Interesting Athletic Wear 727,Sports,Athletic Wear,Thomas Group,491.05,289.36,"Weber, Chavez and Howard",2025-08-06
+650,Area Outdoor Gear 970,Sports,Outdoor Gear,Lowe Inc,328.44,132.42,"Alvarado, Gibson and Torres",2025-03-16
+651,Say Team Sports 422,Sports,Team Sports,Smith-Nguyen,262.99,146.55,Rios PLC,2023-02-04
+652,Head Fitness Equipment 144,Sports,Fitness Equipment,Bowen Group,861.73,376.68,Barrera Inc,2024-05-02
+653,Protect Athletic Wear 297,Sports,Athletic Wear,"Richards, Shaw and Williams",767.5,496.33,Kelley and Sons,2024-01-26
+654,Someone Athletic Wear 115,Sports,Athletic Wear,Dominguez-Hernandez,958.03,386.96,"Stanley, Fowler and Castillo",2025-02-24
+655,Economy Team Sports 217,Sports,Team Sports,Johnson and Sons,40.35,28.07,Clark and Sons,2025-03-21
+656,Way Fitness Equipment 615,Sports,Fitness Equipment,Boyd-Schneider,90.84,56.72,Arellano PLC,2025-09-30
+657,Everybody Fitness Equipment 446,Sports,Fitness Equipment,Gates-Combs,874.18,361.88,White-Olsen,2023-07-25
+658,Position Outdoor Gear 619,Sports,Outdoor Gear,"Davenport, Gomez and Watson",923.84,633.58,Ferguson Inc,2025-10-27
+659,Information Athletic Wear 437,Sports,Athletic Wear,"Reynolds, Smith and Stanton",54.44,30.1,"Beard, Novak and Davis",2023-12-18
+660,National Athletic Wear 162,Sports,Athletic Wear,Cunningham Group,140.22,65.06,Matthews PLC,2023-11-30
+661,Heart Fitness Equipment 954,Sports,Fitness Equipment,"Byrd, Burnett and Gentry",465.51,304.92,Leon-Chambers,2024-11-13
+662,Nation Team Sports 496,Sports,Team Sports,Delacruz-May,908.99,485.63,"Nielsen, Cobb and Brown",2025-04-05
+663,Husband Fitness Equipment 604,Sports,Fitness Equipment,"Blackburn, Ochoa and Doyle",950.36,559.26,"Bradford, Reyes and Howard",2023-05-26
+664,Today Outdoor Gear 780,Sports,Outdoor Gear,Merritt LLC,155.72,99.89,"Martinez, Beck and Potter",2024-07-12
+665,Act Educational 988,Books,Educational,Jones-Berry,361.75,148.79,Aguilar-Stevenson,2024-08-02
+666,Out Comics 366,Books,Comics,Martin-Perkins,927.77,449.56,Taylor-Jones,2025-10-07
+667,Nice Educational 587,Books,Educational,Webb-Ramirez,156.33,72.02,"Clarke, Barnett and Murphy",2025-09-12
+668,Peace Fiction 988,Books,Fiction,Warren Inc,741.49,396.21,"Archer, Williams and Ferguson",2024-12-08
+669,Model Fiction 374,Books,Fiction,Allen LLC,362.86,211.26,Watkins Inc,2024-06-03
+670,Strategy Non-Fiction 656,Books,Non-Fiction,"Brown, Parker and Mcintosh",713.07,342.68,"Flores, Hamilton and Long",2023-10-21
+671,Require Fiction 521,Books,Fiction,"Dudley, Lopez and Taylor",251.32,160.57,Stafford PLC,2025-06-08
+672,Adult Fiction 662,Books,Fiction,Jimenez PLC,140.13,86.97,Lopez-Hernandez,2024-02-21
+673,Road Fiction 732,Books,Fiction,"Murphy, Perez and Woods",428.76,271.79,Wagner PLC,2025-03-07
+674,Perhaps Comics 603,Books,Comics,"Peterson, Castro and Alvarez",983.81,546.45,"Barajas, Robinson and Lawrence",2024-01-03
+675,Money Non-Fiction 575,Books,Non-Fiction,Weaver-Ford,585.59,402.31,Davis-Thompson,2024-11-21
+676,Figure Comics 993,Books,Comics,"Young, Barrett and Mcclure",602.56,363.23,Short-Collier,2023-04-05
+677,Hour Comics 193,Books,Comics,Johnson-Smith,340.58,156.3,Smith and Sons,2023-05-21
+678,Sound Non-Fiction 874,Books,Non-Fiction,Bryant Group,834.04,475.67,"Reed, Nichols and Miller",2025-04-06
+679,High Magazines 735,Books,Magazines,Herrera PLC,471.86,305.38,Lane-Webb,2023-03-18
+680,Already Educational 314,Books,Educational,Bryant and Sons,610.26,264.87,Schmitt LLC,2024-10-31
+681,Out Magazines 427,Books,Magazines,"Rosario, Thompson and Davidson",821.83,367.95,"Ayers, Sims and Farmer",2025-01-14
+682,Fear Non-Fiction 906,Books,Non-Fiction,"Callahan, Myers and Brown",30.14,20.29,Butler and Sons,2024-11-07
+683,Interview Comics 104,Books,Comics,Harris-Mcdonald,69.27,37.88,Kane LLC,2023-04-19
+684,Out Non-Fiction 340,Books,Non-Fiction,"Ramirez, Bennett and Maxwell",387.34,216.9,"Perry, Reynolds and Golden",2024-10-16
+685,Exactly Non-Fiction 469,Books,Non-Fiction,"Brown, Hunt and Howell",407.92,195.97,Gibson-Davis,2024-10-10
+686,Join Magazines 758,Books,Magazines,"Torres, Moore and Smith",974.06,609.54,"Garza, Clark and Nguyen",2025-11-14
+687,Arm Magazines 314,Books,Magazines,"Dunn, Caldwell and Shaw",777.83,446.31,Chan-Taylor,2025-03-10
+688,Along Magazines 945,Books,Magazines,Decker Group,843.03,513.22,Fischer Inc,2023-12-06
+689,Various Fiction 789,Books,Fiction,"Luna, Hess and Gates",197.35,104.92,"Davis, Parks and Coleman",2024-06-27
+690,Republican Educational 636,Books,Educational,Long-Wilson,59.11,30.09,"Reed, Hartman and Dennis",2025-11-02
+691,International Magazines 458,Books,Magazines,Rivera-Hernandez,780.99,365.88,Levy-Smith,2024-06-11
+692,Product Comics 828,Books,Comics,"Neal, Robinson and Williams",15.14,6.97,Jordan and Sons,2023-05-01
+693,Outside Fiction 659,Books,Fiction,Rasmussen-Jenkins,300.92,198.74,"Smith, Christensen and King",2024-09-11
+694,Congress Non-Fiction 622,Books,Non-Fiction,"Williams, Moreno and Garner",937.77,625.12,Gallagher-Thompson,2023-09-28
+695,Pass Magazines 204,Books,Magazines,Reed PLC,853.67,368.23,"Berger, Ballard and Castillo",2024-12-06
+696,Hold Magazines 464,Books,Magazines,Hobbs-Garcia,10.9,5.95,Taylor-Morgan,2023-12-03
+697,Book Comics 195,Books,Comics,"Dean, Herring and Dudley",834.83,579.11,"Schwartz, Vasquez and Johnson",2025-05-04
+698,Case Magazines 272,Books,Magazines,Vasquez-Carter,958.0,610.71,"Mcintosh, Webb and Hudson",2023-11-12
+699,Country Educational 913,Books,Educational,Green PLC,381.17,264.14,Williams PLC,2023-06-01
+700,Popular Educational 425,Books,Educational,Rogers Ltd,69.05,42.59,Buchanan Group,2025-05-08
+701,Into Non-Fiction 817,Books,Non-Fiction,"Brooks, Bishop and Adams",675.4,470.71,Melton and Sons,2024-02-07
+702,Heavy Fiction 163,Books,Fiction,Hall and Sons,784.44,444.67,Salazar-Holloway,2023-04-25
+703,Order Comics 142,Books,Comics,Brown Ltd,724.02,294.44,Cunningham-Pratt,2023-04-06
+704,Watch Comics 478,Books,Comics,"Joseph, Cunningham and Young",845.38,529.71,Martinez-Elliott,2024-04-06
+705,Include Comics 167,Books,Comics,"Sims, Johnson and Phelps",689.0,438.02,"Dyer, Meyer and Garner",2023-08-12
+706,Within Magazines 746,Books,Magazines,Higgins PLC,462.1,201.6,Mendoza Group,2023-04-27
+707,Knowledge Educational 848,Books,Educational,Gibson-Larsen,580.5,233.03,Ramirez-Villa,2025-06-06
+708,Cultural Magazines 387,Books,Magazines,Gibson-Williamson,926.82,590.27,King-Ingram,2024-11-09
+709,Nothing Magazines 405,Books,Magazines,Le Group,786.85,529.68,"Gordon, Burgess and Villanueva",2024-04-11
+710,Forward Non-Fiction 234,Books,Non-Fiction,Kennedy Ltd,190.89,95.74,Jones and Sons,2023-03-08
+711,One Magazines 544,Books,Magazines,Melton-Bell,401.13,269.77,Mclaughlin PLC,2023-02-06
+712,Wait Non-Fiction 466,Books,Non-Fiction,Salazar-Klein,594.92,372.6,Sanchez-House,2023-07-03
+713,Benefit Educational 142,Books,Educational,Tate-Smith,811.53,560.25,Booth-Zimmerman,2025-10-27
+714,Be Fiction 274,Books,Fiction,"Briggs, Moore and Smith",258.77,116.21,English PLC,2024-07-12
+715,Stage Fiction 827,Books,Fiction,Carr-Webb,788.55,491.86,Baker-James,2024-03-25
+716,Indeed Magazines 461,Books,Magazines,Snyder-Powell,992.46,455.16,Wells Group,2024-06-14
+717,Field Comics 567,Books,Comics,"Hamilton, Pacheco and Peck",873.11,377.2,Jones-Johnson,2025-11-21
+718,Democratic Fiction 195,Books,Fiction,Collins PLC,46.82,21.35,Butler-Warren,2024-06-25
+719,Evidence Educational 479,Books,Educational,"Michael, Roberts and Wilson",19.28,11.28,Duran-Howard,2025-03-01
+720,Bank Non-Fiction 299,Books,Non-Fiction,"Williams, Dunn and Pena",138.42,55.88,Smith Inc,2023-04-02
+721,Hour Magazines 603,Books,Magazines,"Ellis, Brown and Chase",267.49,150.64,Garza-Holden,2024-09-19
+722,Attorney Magazines 473,Books,Magazines,Jones-Chavez,610.48,319.69,Bowen Group,2023-10-23
+723,Including Non-Fiction 479,Books,Non-Fiction,"White, Walker and Marquez",75.89,32.04,"Odonnell, Robinson and Huff",2023-09-12
+724,Me Non-Fiction 942,Books,Non-Fiction,George-Vazquez,18.52,12.77,"Spencer, Spencer and Maxwell",2023-12-20
+725,Off Comics 705,Books,Comics,"Madden, Coleman and Bentley",859.32,583.1,Sanchez and Sons,2024-12-01
+726,Have Comics 552,Books,Comics,Robertson and Sons,866.05,551.82,Berry Ltd,2024-05-13
+727,Move Comics 321,Books,Comics,Moore Group,285.14,115.84,Valdez-Vasquez,2023-11-16
+728,Couple Non-Fiction 495,Books,Non-Fiction,Taylor-Eaton,20.17,10.06,Allen and Sons,2024-10-05
+729,Eat Fiction 203,Books,Fiction,"Smith, Brooks and Walters",503.87,350.57,Wright-Johnson,2023-09-27
+730,Several Educational 686,Books,Educational,Wagner LLC,470.03,294.48,Powers Group,2024-01-16
+731,Need Comics 428,Books,Comics,Mccullough Inc,26.48,15.76,Thornton-Greene,2023-12-07
+732,Newspaper Comics 474,Books,Comics,Anderson-Ray,30.53,18.13,"Pierce, Gibson and Wong",2024-03-12
+733,Agree Comics 589,Books,Comics,Herrera LLC,563.31,359.79,Jackson LLC,2024-01-10
+734,Real Educational 883,Books,Educational,Stephenson and Sons,619.89,431.56,Martin-Gillespie,2024-08-18
+735,Strong Magazines 741,Books,Magazines,"Maxwell, Spence and Johnson",800.97,441.63,Parker and Sons,2023-10-19
+736,Six Comics 308,Books,Comics,Garrett Group,638.27,437.53,Delacruz Ltd,2022-12-04
+737,Such Fiction 489,Books,Fiction,Miller-Oliver,388.37,233.83,"Perry, Murphy and Williams",2024-07-10
+738,Until Educational 700,Books,Educational,Bolton Group,672.41,469.58,Wilson Inc,2024-06-30
+739,Later Non-Fiction 577,Books,Non-Fiction,Kelly-Williams,466.41,307.93,"Smith, Walker and Newman",2024-03-23
+740,Detail Non-Fiction 616,Books,Non-Fiction,"Hernandez, Jones and Jones",854.59,472.45,Roberts-Smith,2025-09-03
+741,Scene Comics 128,Books,Comics,"Bryan, Murray and Morris",953.33,625.07,"Gill, Garner and Carson",2022-12-21
+742,Test Comics 317,Books,Comics,"Smith, Hernandez and Moreno",58.52,30.14,"Porter, Richards and Wilson",2025-09-14
+743,Get Magazines 731,Books,Magazines,Lewis Group,567.75,367.46,Warner LLC,2025-07-20
+744,Suddenly Non-Fiction 447,Books,Non-Fiction,Watson Ltd,690.0,291.25,Guzman LLC,2023-01-16
+745,Budget Magazines 222,Books,Magazines,"James, Pierce and Stout",58.05,34.83,"Nash, Harrison and Davidson",2024-06-29
+746,Believe Magazines 924,Books,Magazines,"Martinez, Nixon and Harris",648.56,293.27,Gates LLC,2025-04-14
+747,They Non-Fiction 658,Books,Non-Fiction,Castillo-Garrison,890.29,562.59,"Hughes, Bowen and Adams",2024-04-10
+748,Training Non-Fiction 648,Books,Non-Fiction,Moore-Wall,949.75,544.53,Taylor and Sons,2023-04-14
+749,Worry Non-Fiction 399,Books,Non-Fiction,West-Trujillo,184.71,122.33,"Reed, Nielsen and Cooper",2024-10-11
+750,Record Non-Fiction 444,Books,Non-Fiction,Hill-Summers,815.06,555.45,"Taylor, Morton and Ross",2023-08-14
+751,Space Magazines 856,Books,Magazines,Knight-Herrera,905.65,462.31,Lee Ltd,2024-05-07
+752,Administration Comics 576,Books,Comics,"Coleman, Nguyen and Garcia",628.57,410.32,"Ward, Washington and Carter",2024-10-10
+753,Radio Non-Fiction 200,Books,Non-Fiction,Lee PLC,372.8,211.26,"Durham, Morales and Villegas",2024-12-09
+754,Card Educational 629,Books,Educational,Schwartz-Day,370.23,173.5,Livingston-Lewis,2024-01-08
+755,Size Comics 849,Books,Comics,Chan-Cunningham,519.9,256.12,Wyatt-Williams,2024-01-05
+756,Guess Fiction 179,Books,Fiction,"Cummings, Cook and Sherman",571.45,288.8,"Cowan, Stevens and Griffin",2025-05-01
+757,Service Non-Fiction 594,Books,Non-Fiction,Ryan-Harmon,288.06,168.43,Mcgee and Sons,2023-03-21
+758,Marriage Educational 293,Books,Educational,"Ruiz, Bryan and Williams",914.02,502.28,"Davies, Gallagher and Wyatt",2023-08-07
+759,Use Comics 864,Books,Comics,"Gentry, Hernandez and Wright",997.43,690.06,Moore-Jones,2023-03-02
+760,Special Non-Fiction 549,Books,Non-Fiction,Park-Mora,620.2,419.19,Shaw-Diaz,2025-09-15
+761,Without Fiction 805,Books,Fiction,"Bishop, Smith and Roth",706.28,420.17,Clark-White,2025-11-03
+762,Wide Educational 872,Books,Educational,Carson-Robertson,323.9,139.55,"Stone, George and Campbell",2023-05-24
+763,There Comics 431,Books,Comics,"Hampton, Bennett and Grant",561.67,272.27,Howard-Burch,2025-08-16
+764,A Non-Fiction 160,Books,Non-Fiction,Jefferson Group,939.26,377.96,Robinson Inc,2024-12-14
+765,Four Magazines 575,Books,Magazines,"Pearson, Guerra and Price",163.57,72.29,Carter-Deleon,2024-01-26
+766,Student Non-Fiction 963,Books,Non-Fiction,Porter-Rodriguez,757.6,398.24,"Walker, Hernandez and Perez",2025-05-28
+767,Condition Non-Fiction 927,Books,Non-Fiction,Scott-Hayes,256.08,166.81,"Morris, Smith and Nelson",2023-03-27
+768,Politics Non-Fiction 432,Books,Non-Fiction,James Group,613.29,366.89,Cowan Ltd,2024-06-03
+769,Draw Comics 540,Books,Comics,Bentley-Harvey,362.32,252.81,Patterson and Sons,2025-08-30
+770,Rate Fiction 884,Books,Fiction,"Myers, Hernandez and Hill",658.32,396.55,"Noble, Collins and Holmes",2025-07-17
+771,Language Magazines 626,Books,Magazines,Schneider PLC,421.03,249.41,Robinson Ltd,2024-06-29
+772,Factor Fiction 133,Books,Fiction,Sanchez Group,700.17,282.81,"Esparza, Rios and Garcia",2023-05-22
+773,Two Educational 810,Books,Educational,Jenkins-Parker,86.05,53.16,Conner Ltd,2024-08-10
+774,Effect Comics 639,Books,Comics,"Li, Castro and Flores",425.26,185.54,York Inc,2024-07-14
+775,Court Fiction 249,Books,Fiction,"Johnson, Tucker and Palmer",268.59,126.13,"Stewart, Kelley and Ross",2024-08-11
+776,Vote Fiction 332,Books,Fiction,Martinez-Wilson,868.69,516.63,"Moody, Jones and Young",2024-09-25
+777,Help Educational 544,Books,Educational,Chen Group,546.69,238.48,Anderson Inc,2024-05-28
+778,Glass Non-Fiction 878,Books,Non-Fiction,"Barnett, Barton and Pugh",361.8,220.25,Adams-Williams,2023-12-15
+779,Agency Fiction 137,Books,Fiction,"Walker, Fields and Miller",152.7,63.27,Norman Inc,2025-10-04
+780,Light Fiction 302,Books,Fiction,Patterson-Green,593.28,289.8,Randolph-Kim,2024-11-19
+781,Which Comics 390,Books,Comics,Dyer-Hall,763.71,533.21,"Guerra, Turner and Diaz",2024-04-12
+782,Several Fiction 302,Books,Fiction,Mcdonald PLC,376.91,161.58,"Cervantes, Jacobs and Johnson",2024-06-26
+783,Size Educational 902,Books,Educational,Simon Group,505.41,276.04,"Robinson, Blackwell and Owens",2025-04-05
+784,Himself Non-Fiction 169,Books,Non-Fiction,"Riggs, Davis and Fowler",240.65,151.37,Mccoy and Sons,2023-06-03
+785,Several Comics 309,Books,Comics,Bruce-Douglas,807.65,336.44,Clark Group,2023-06-07
+786,Lawyer Comics 853,Books,Comics,Wade LLC,196.87,116.91,Davis-Mitchell,2023-12-18
+787,And Non-Fiction 126,Books,Non-Fiction,"Park, Graham and Rowland",429.62,286.23,Green-Brown,2025-01-17
+788,Lot Fiction 795,Books,Fiction,Boyd-Jackson,88.93,44.67,Nunez-Cortez,2025-07-23
+789,Reach Educational 806,Books,Educational,Rodriguez-Roberts,509.12,209.69,"Durham, Lee and Knight",2024-02-29
+790,Surface Non-Fiction 743,Books,Non-Fiction,"Bennett, Cortez and Perry",773.25,474.45,"Freeman, Phelps and Thompson",2025-04-23
+791,Day Fiction 299,Books,Fiction,"Gomez, Lewis and Allen",558.13,232.16,Weaver Ltd,2023-04-18
+792,Quickly Magazines 891,Books,Magazines,Collins-Burgess,739.85,442.55,Lloyd Group,2025-07-31
+793,Then Comics 481,Books,Comics,"Stephenson, Miller and Hunt",160.08,95.62,Smith PLC,2025-07-12
+794,Pretty Fiction 203,Books,Fiction,Chavez-Moore,170.18,108.79,Hatfield and Sons,2024-07-28
+795,Edge Fiction 216,Books,Fiction,Atkinson LLC,130.16,86.55,"Powers, Vasquez and Carter",2023-01-31
+796,Leave Comics 852,Books,Comics,"Johnson, Davis and Palmer",189.36,129.87,Woodard Inc,2023-02-11
+797,Why Educational 592,Books,Educational,"Snyder, Baker and Jones",278.0,134.88,Thomas-Conway,2023-01-14
+798,Charge Magazines 309,Books,Magazines,Dillon-Miller,100.48,42.01,"Smith, Huynh and Hawkins",2023-02-26
+799,Himself Comics 296,Books,Comics,Rodriguez-Martinez,710.47,320.51,White-Smith,2024-10-18
+800,Hot Educational 288,Books,Educational,Thompson LLC,596.54,388.36,Herrera-Martinez,2025-05-27
+801,Case Magazines 310,Books,Magazines,Little and Sons,235.7,139.25,Gentry-Flowers,2024-08-07
+802,Home Educational 825,Books,Educational,James-Smith,868.01,351.79,Smith-Kramer,2024-10-25
+803,Color Non-Fiction 685,Books,Non-Fiction,Blair-Jones,135.9,76.63,"White, Rodriguez and Greene",2025-05-03
+804,Marriage Fiction 509,Books,Fiction,Simpson-Nolan,425.68,264.97,"Hill, Nguyen and Maxwell",2025-01-02
+805,Really Magazines 874,Books,Magazines,"Sweeney, Price and Schwartz",831.93,497.85,Yates and Sons,2024-11-23
+806,Those Educational 912,Books,Educational,Archer-Taylor,373.94,169.68,"Walters, Carroll and Watkins",2024-03-08
+807,Mention Fiction 271,Books,Fiction,"Hale, Clements and Fisher",334.13,215.57,Cruz-Rogers,2025-06-29
+808,Apply Educational 581,Books,Educational,Smith Group,372.31,200.92,Beck-Houston,2023-07-02
+809,First Educational 714,Books,Educational,Miller-Cruz,439.53,199.91,"Bailey, Alexander and Davis",2025-06-04
+810,Occur Non-Fiction 664,Books,Non-Fiction,"Simpson, Cruz and Massey",512.49,318.85,Daniels-Carter,2024-12-07
+811,Old Non-Fiction 998,Books,Non-Fiction,Herrera and Sons,614.24,410.63,Wells-Moore,2024-09-30
+812,Art Educational 877,Books,Educational,Riley-Blair,627.32,358.99,Khan-Taylor,2024-09-19
+813,Group Comics 605,Books,Comics,Chan Ltd,51.42,29.0,Daniels-Hernandez,2025-06-16
+814,Color Fiction 872,Books,Fiction,Mason-Mueller,157.45,92.08,Clarke PLC,2025-08-28
+815,Itself Educational 812,Books,Educational,Pruitt-Cox,120.19,71.73,Collier-Mcdaniel,2023-12-14
+816,Analysis Non-Fiction 885,Books,Non-Fiction,Lawson-Campbell,764.85,380.43,Hernandez-Hudson,2023-02-28
+817,Those Educational 636,Books,Educational,Ramirez-Bryan,585.84,376.0,Martinez Inc,2025-02-08
+818,Tonight Fiction 808,Books,Fiction,"Rhodes, Perez and Clark",987.59,515.51,Hernandez Inc,2024-03-27
+819,West Magazines 651,Books,Magazines,Ortiz-Delgado,389.27,252.23,Wood Ltd,2024-03-10
+820,Scene Comics 188,Books,Comics,Gordon and Sons,751.77,317.19,Ellis Ltd,2025-04-22
+821,Before Fiction 456,Books,Fiction,"Jenkins, Stone and Glover",866.98,592.26,Wilcox Group,2024-09-19
+822,Machine Fiction 361,Books,Fiction,Wilson Group,473.88,264.5,Carroll-Moon,2023-03-08
+823,See Magazines 819,Books,Magazines,Hopkins-Ward,275.99,130.84,"Anderson, Munoz and Williams",2023-03-25
+824,Money Educational 484,Books,Educational,"Bowen, Hudson and Garcia",879.92,612.93,Miller Group,2025-09-23
+825,Month Fiction 614,Books,Fiction,Hall and Sons,479.8,256.13,"Hanson, Andrews and Patel",2023-06-01
+826,Start Non-Fiction 545,Books,Non-Fiction,Ellison Inc,610.94,312.8,Moses-Bowers,2024-03-20
+827,Together Comics 556,Books,Comics,Green-Johnson,23.22,13.98,Rodgers-Cunningham,2023-01-30
+828,Successful Comics 521,Books,Comics,"Richmond, Clark and Woods",520.16,304.93,"Baker, Munoz and Moss",2023-08-14
+829,Allow Non-Fiction 806,Books,Non-Fiction,"Williams, White and Campbell",351.14,199.95,"Lynch, Benton and Baker",2023-08-12
+830,Source Magazines 386,Books,Magazines,"York, Dudley and Charles",950.28,478.8,Miller Ltd,2022-12-12
+831,Effect Action Figures 632,Toys,Action Figures,Vazquez Inc,644.49,273.15,"Jones, Phillips and Scott",2024-04-02
+832,Build Dolls 661,Toys,Dolls,Anderson Inc,612.13,265.13,"Baker, Mcclain and Lewis",2023-07-09
+833,Economy Educational Toys 843,Toys,Educational Toys,Smith Inc,744.59,298.77,"Cordova, Francis and Howard",2025-04-05
+834,Receive Dolls 405,Toys,Dolls,Austin LLC,756.77,407.92,Kelly-Paul,2023-07-11
+835,Make Dolls 385,Toys,Dolls,Perry-White,924.05,619.33,Lambert Inc,2023-06-28
+836,Civil Action Figures 515,Toys,Action Figures,Reynolds-Morgan,426.89,209.67,Kelley and Sons,2024-09-06
+837,Mrs Educational Toys 731,Toys,Educational Toys,"Gonzalez, Garza and Hall",131.97,86.11,Williams-Copeland,2025-03-22
+838,By Educational Toys 975,Toys,Educational Toys,Washington Inc,417.54,184.81,"Riddle, Brown and Barker",2024-06-02
+839,But Board Games 892,Toys,Board Games,Ortega-Mann,793.13,436.48,Ramsey-Aguilar,2023-07-27
+840,Agent Puzzles 840,Toys,Puzzles,Blair-Sanders,741.67,387.18,Jones-Graham,2023-09-03
+841,Let Puzzles 339,Toys,Puzzles,Spencer Ltd,167.03,114.21,Sanders-Young,2023-01-26
+842,Else Puzzles 932,Toys,Puzzles,Jackson PLC,216.89,113.89,Washington-Johnson,2024-01-27
+843,Concern Educational Toys 242,Toys,Educational Toys,"Lawrence, Roman and Trevino",366.3,159.47,Payne-Brown,2025-08-27
+844,Give Puzzles 454,Toys,Puzzles,Guzman-Castillo,654.16,407.89,Garcia-Holt,2024-04-18
+845,Dream Educational Toys 589,Toys,Educational Toys,Hubbard-Ford,994.94,634.87,Berg-Morgan,2023-01-28
+846,Because Educational Toys 946,Toys,Educational Toys,"Chavez, Richards and Sandoval",80.52,37.62,Price-Moon,2024-10-23
+847,Performance Dolls 818,Toys,Dolls,Thompson-Russell,913.18,501.67,Carter-Goodman,2023-11-19
+848,Yes Dolls 354,Toys,Dolls,"Johnson, Wu and Rivas",775.31,502.47,Baxter-Rasmussen,2023-11-18
+849,Together Action Figures 684,Toys,Action Figures,Ramos-Edwards,894.3,439.4,Meyers-Murphy,2023-01-04
+850,Me Educational Toys 214,Toys,Educational Toys,"Davis, Rose and Jones",198.33,106.13,Griffith-Duarte,2022-12-02
+851,People Dolls 665,Toys,Dolls,Thompson-Williams,386.07,189.25,Hobbs-Mann,2025-07-19
+852,Professional Action Figures 249,Toys,Action Figures,"Perez, Martinez and Mason",500.55,341.06,"Guzman, Mccullough and Jones",2023-10-14
+853,Girl Dolls 432,Toys,Dolls,"Trevino, Kennedy and Norton",106.29,52.31,"Colon, Cook and Owen",2025-07-05
+854,Describe Action Figures 542,Toys,Action Figures,Patton PLC,30.97,17.1,Larson PLC,2022-12-19
+855,Stage Educational Toys 954,Toys,Educational Toys,Cabrera-Ingram,844.4,536.05,"Francis, Bowen and Williams",2024-11-24
+856,Authority Puzzles 641,Toys,Puzzles,Martinez-Harris,729.93,336.88,Mclaughlin and Sons,2023-04-20
+857,Instead Puzzles 170,Toys,Puzzles,Garner-Montes,730.15,456.98,Cabrera-Bishop,2024-09-03
+858,Nation Board Games 802,Toys,Board Games,Conley-Love,357.09,215.78,Wilson-Hill,2025-01-24
+859,Detail Educational Toys 319,Toys,Educational Toys,"Gilbert, Hampton and Tapia",156.73,99.6,"Flores, Scott and Anderson",2025-07-26
+860,Hit Action Figures 140,Toys,Action Figures,Edwards-King,239.83,97.94,Roach-Jensen,2023-08-21
+861,Support Board Games 547,Toys,Board Games,Ortega-Hayes,720.28,407.44,Garcia-Horne,2023-10-12
+862,Himself Action Figures 132,Toys,Action Figures,Washington-Ritter,256.64,171.36,Rogers LLC,2023-05-02
+863,Ago Action Figures 748,Toys,Action Figures,"Burton, Cook and Henderson",304.02,180.91,"Hunter, Schmidt and Lin",2025-11-19
+864,Democrat Action Figures 572,Toys,Action Figures,"Miller, Stephenson and Morales",852.98,551.35,Jackson and Sons,2024-05-22
+865,Sound Board Games 891,Toys,Board Games,Caldwell LLC,564.36,293.58,Silva-Baker,2023-09-07
+866,Manage Puzzles 353,Toys,Puzzles,Perez-Goodman,787.81,471.0,Jackson-Lopez,2023-12-16
+867,Level Dolls 828,Toys,Dolls,"Bryant, Reyes and Alvarez",59.21,33.63,Cruz Ltd,2024-03-02
+868,Other Action Figures 949,Toys,Action Figures,Olsen-Brown,999.32,410.9,"Cain, Jackson and White",2024-11-11
+869,Close Action Figures 662,Toys,Action Figures,Reyes-Jackson,268.08,162.66,"White, Sanford and Clarke",2025-01-01
+870,Day Action Figures 123,Toys,Action Figures,Dean LLC,724.0,311.46,Moore PLC,2023-12-10
+871,Clear Action Figures 738,Toys,Action Figures,"Pugh, Graham and Sullivan",115.85,51.29,Williamson-Ford,2025-09-16
+872,Sing Board Games 736,Toys,Board Games,Carpenter Ltd,583.89,366.28,Roberson-Jefferson,2023-02-06
+873,Experience Dolls 401,Toys,Dolls,Willis-Costa,532.39,370.51,Thompson-Thomas,2023-08-09
+874,Air Board Games 230,Toys,Board Games,"Castro, Vazquez and Horne",950.23,600.81,Martin and Sons,2023-03-07
+875,Evening Dolls 760,Toys,Dolls,Mercado Ltd,14.93,5.98,"Jenkins, Wagner and Fitzgerald",2023-03-19
+876,Type Educational Toys 592,Toys,Educational Toys,Moreno-Wilkerson,494.87,204.21,Short-Singleton,2023-06-05
+877,Majority Educational Toys 160,Toys,Educational Toys,Byrd PLC,76.12,49.14,Hunt-Dodson,2023-09-21
+878,Everybody Educational Toys 504,Toys,Educational Toys,"Spencer, Lopez and Becker",947.83,547.92,"Strickland, Moore and Myers",2025-09-01
+879,Billion Dolls 657,Toys,Dolls,"Rosario, Brown and Gomez",727.47,329.27,Rodriguez Ltd,2025-02-07
+880,Listen Dolls 654,Toys,Dolls,"Stephens, Frazier and Ward",726.65,486.04,"Francis, Jenkins and Jordan",2023-07-15
+881,Myself Board Games 153,Toys,Board Games,"Lester, Wright and Vargas",934.53,382.82,Cervantes and Sons,2023-11-01
+882,Nice Puzzles 507,Toys,Puzzles,Thompson Group,289.23,144.29,Pittman-Shea,2025-01-08
+883,Even Dolls 244,Toys,Dolls,"Ryan, Armstrong and Carter",229.87,122.2,Garrison-Rodriguez,2025-07-24
+884,Magazine Educational Toys 238,Toys,Educational Toys,Hughes LLC,376.04,189.24,"Shepherd, Cox and Howell",2025-10-11
+885,Whether Board Games 620,Toys,Board Games,Robinson-Avila,789.09,474.49,Melendez-Wright,2023-08-22
+886,Light Puzzles 642,Toys,Puzzles,Bowman Ltd,740.32,297.7,Sanchez-Thomas,2023-10-25
+887,Wife Dolls 595,Toys,Dolls,"Rice, Mayo and Padilla",17.21,8.57,Foster-Osborne,2023-07-12
+888,Show Dolls 648,Toys,Dolls,Williams PLC,397.41,170.16,Gilbert-Buck,2025-10-20
+889,Sport Educational Toys 480,Toys,Educational Toys,Garrett-Wright,235.51,151.15,Hansen-Garner,2025-05-30
+890,Sort Board Games 131,Toys,Board Games,Owen Ltd,964.82,508.02,Lewis LLC,2025-04-06
+891,Image Puzzles 217,Toys,Puzzles,Ellis-Huff,51.14,21.96,Morse-Perez,2024-09-09
+892,Camera Dolls 396,Toys,Dolls,Watson-Mccarthy,367.07,160.96,Fritz Group,2023-05-28
+893,Picture Puzzles 397,Toys,Puzzles,"Rodriguez, Porter and Hood",544.34,273.06,Weeks-Smith,2023-07-25
+894,Ten Puzzles 819,Toys,Puzzles,Davis-Harris,753.1,339.5,Wells-Morris,2025-04-20
+895,Method Dolls 139,Toys,Dolls,"Bryan, Patel and Stevens",332.43,199.22,Nielsen-Brown,2025-06-30
+896,Because Educational Toys 241,Toys,Educational Toys,"Alexander, Bailey and Velez",963.84,455.71,Perkins PLC,2024-01-17
+897,From Puzzles 605,Toys,Puzzles,Murphy LLC,256.86,128.89,Newton PLC,2023-03-10
+898,Single Puzzles 379,Toys,Puzzles,Brown-Williams,480.59,240.14,Larson-Butler,2025-08-13
+899,Approach Action Figures 871,Toys,Action Figures,Norman Ltd,620.46,251.51,Woods-Hall,2023-12-25
+900,Option Educational Toys 369,Toys,Educational Toys,Woodward-Carpenter,137.9,76.78,"Harris, Hill and Watkins",2024-03-28
+901,Son Puzzles 800,Toys,Puzzles,Davis Group,175.97,102.91,Gardner Group,2025-09-27
+902,Pay Board Games 428,Toys,Board Games,"Lynn, Johnson and Jacobs",620.2,279.43,"Montoya, Miles and Irwin",2023-03-14
+903,Responsibility Dolls 502,Toys,Dolls,Moreno and Sons,283.82,123.85,Gonzalez-Gomez,2023-10-23
+904,Court Action Figures 900,Toys,Action Figures,"Chang, Jones and Rios",272.46,150.78,Clark-Sexton,2024-09-08
+905,Cause Action Figures 677,Toys,Action Figures,"Horn, Noble and Dunn",21.56,9.68,"Montes, Hall and Carter",2024-10-17
+906,Child Board Games 461,Toys,Board Games,Clark PLC,310.63,161.89,Patel-Rogers,2024-08-14
+907,Last Dolls 659,Toys,Dolls,Woods-Harris,311.83,146.98,Ellis PLC,2024-09-27
+908,Between Puzzles 918,Toys,Puzzles,Olson and Sons,594.07,378.58,Owens Group,2023-06-02
+909,College Action Figures 260,Toys,Action Figures,"Cook, Weaver and Gaines",459.99,187.58,Brown-Riley,2022-12-25
+910,Former Puzzles 829,Toys,Puzzles,Boyd Inc,886.27,577.65,"Long, Hernandez and Cameron",2025-02-28
+911,Interest Educational Toys 845,Toys,Educational Toys,Moreno PLC,581.28,312.07,Brown-Patterson,2024-11-13
+912,Note Educational Toys 684,Toys,Educational Toys,Brown Group,215.16,135.06,Robinson-Robinson,2024-12-26
+913,Fact Puzzles 555,Toys,Puzzles,Coleman-Gardner,754.17,524.96,Romero Inc,2023-11-15
+914,Fish Educational Toys 800,Toys,Educational Toys,Miller PLC,956.16,560.8,Brooks Ltd,2024-04-17
+915,Together Puzzles 790,Toys,Puzzles,"Wright, Bean and Foley",967.96,579.5,Parsons-Miller,2024-08-07
+916,Thought Educational Toys 273,Toys,Educational Toys,Gonzales-Garrett,481.68,234.9,Kramer Ltd,2023-07-22
+917,Office Educational Toys 831,Toys,Educational Toys,"Ford, Bauer and Mcfarland",816.96,370.39,Anderson LLC,2025-09-27
+918,Go Dolls 705,Toys,Dolls,"Miranda, Harmon and Hanson",882.02,587.38,"May, Warren and Williams",2023-01-14
+919,Enjoy Educational Toys 116,Toys,Educational Toys,"Mcclure, Johnson and Ayala",558.59,284.79,Crane-Sanchez,2024-06-09
+920,Town Educational Toys 649,Toys,Educational Toys,Bishop LLC,460.49,187.97,Williams PLC,2023-03-01
+921,Later Puzzles 787,Toys,Puzzles,Weber-Beard,643.68,314.68,Rowe PLC,2023-11-11
+922,Develop Action Figures 494,Toys,Action Figures,Morris Ltd,160.06,68.85,"Brown, Smith and Hayden",2023-06-24
+923,See Action Figures 235,Toys,Action Figures,Schmitt and Sons,34.95,22.55,Boyd-Koch,2023-11-02
+924,Support Action Figures 497,Toys,Action Figures,Houston-Evans,580.55,347.73,Coleman-White,2023-06-26
+925,Far Educational Toys 933,Toys,Educational Toys,Davis and Sons,89.08,46.51,Lee Ltd,2024-10-09
+926,Budget Educational Toys 675,Toys,Educational Toys,Cook Group,601.54,244.91,Whitaker-Brady,2024-12-23
+927,Two Dolls 874,Toys,Dolls,Hayes-Garcia,256.58,114.45,"Nguyen, Harris and Brown",2025-10-22
+928,Find Dolls 761,Toys,Dolls,"Phillips, Preston and Miller",738.82,300.93,Eaton-Myers,2023-09-11
+929,Bar Dolls 751,Toys,Dolls,"Gregory, Hill and Lewis",580.32,362.42,"Barnes, Stephens and Smith",2025-08-13
+930,Election Board Games 284,Toys,Board Games,West Group,779.94,332.2,Lopez-Thornton,2025-09-17
+931,Goal Puzzles 938,Toys,Puzzles,Adkins-Craig,372.58,227.61,Flores-Ayala,2024-09-30
+932,Past Action Figures 926,Toys,Action Figures,"Gregory, Butler and Reyes",87.95,36.52,Scott Group,2023-11-26
+933,Garden Educational Toys 551,Toys,Educational Toys,Long-Hart,356.77,169.19,Watson-Reyes,2024-01-31
+934,Question Dolls 484,Toys,Dolls,Wheeler-Lambert,673.64,406.95,"Allen, Monroe and Roberts",2025-08-18
+935,Hair Dolls 477,Toys,Dolls,Hoover PLC,969.32,442.6,Rivera Ltd,2024-11-12
+936,On Dolls 365,Toys,Dolls,"Hawkins, Lee and Thomas",675.27,396.81,Carter-Chandler,2025-09-28
+937,Organization Educational Toys 947,Toys,Educational Toys,"Wilson, Austin and Ellis",121.06,61.8,Trujillo-Rivas,2023-10-22
+938,By Educational Toys 647,Toys,Educational Toys,Wood-Adams,50.14,21.35,Daugherty-Mcintyre,2023-06-04
+939,Though Action Figures 252,Toys,Action Figures,Jones and Sons,219.17,146.37,"Ramirez, Stephens and Torres",2025-03-27
+940,Sign Educational Toys 961,Toys,Educational Toys,Martin-Anderson,445.18,274.79,Campbell-Hebert,2024-01-23
+941,Audience Puzzles 537,Toys,Puzzles,"Martin, Wolfe and Nguyen",916.2,514.98,"Hunter, Love and Stone",2024-09-24
+942,Stock Dolls 830,Toys,Dolls,Taylor-Monroe,714.08,346.41,"Sparks, Wolfe and Evans",2023-04-09
+943,School Action Figures 525,Toys,Action Figures,"Mcknight, Mayo and Garcia",506.12,281.33,Mccoy-Nguyen,2024-11-18
+944,Assume Board Games 644,Toys,Board Games,Todd-Cohen,566.69,365.18,"Taylor, Robinson and Drake",2023-03-11
+945,Resource Board Games 191,Toys,Board Games,Everett Group,820.65,375.15,"Robinson, Ryan and Bailey",2024-09-14
+946,Apply Educational Toys 318,Toys,Educational Toys,Morales-Adams,735.43,351.45,Young-White,2024-11-22
+947,Serve Educational Toys 904,Toys,Educational Toys,Knight-Hooper,778.34,422.57,Reyes PLC,2024-11-17
+948,Old Dolls 805,Toys,Dolls,Caldwell and Sons,575.29,271.75,Phillips PLC,2024-08-11
+949,Far Dolls 603,Toys,Dolls,Rogers-Martinez,818.94,381.91,"Adams, Porter and Gaines",2023-03-06
+950,Lose Action Figures 825,Toys,Action Figures,"Miller, Riggs and Castro",556.67,386.64,"Rodriguez, Fowler and Walker",2023-10-25
+951,Interest Educational Toys 597,Toys,Educational Toys,Bell Ltd,864.72,452.03,Munoz-Scott,2024-01-08
+952,Free Dolls 727,Toys,Dolls,Jones LLC,132.39,54.52,"Stewart, Oconnell and Murray",2025-07-11
+953,Successful Dolls 755,Toys,Dolls,"Palmer, Ramirez and Mosley",479.73,226.81,Gomez-Mclean,2025-03-05
+954,Chair Educational Toys 227,Toys,Educational Toys,"Burgess, Mcgee and Huffman",950.09,504.66,Hall Ltd,2025-08-22
+955,Democrat Action Figures 637,Toys,Action Figures,Fleming LLC,910.09,540.42,Small-Sanchez,2025-05-02
+956,Once Action Figures 471,Toys,Action Figures,"Obrien, Summers and Booth",669.28,406.46,Davis-Cook,2024-12-24
+957,Clearly Educational Toys 344,Toys,Educational Toys,"Wheeler, Silva and Hill",721.5,467.21,Ryan-Prince,2024-04-26
+958,Direction Educational Toys 932,Toys,Educational Toys,"Singh, Carson and Skinner",344.64,160.93,Allen-Gay,2025-09-23
+959,Whole Action Figures 640,Toys,Action Figures,"Williams, Francis and Hinton",53.0,24.77,"Johnson, Cardenas and Hernandez",2023-11-02
+960,Number Puzzles 803,Toys,Puzzles,Johnson-Zamora,235.68,130.31,"Pitts, Murphy and Patterson",2023-01-15
+961,While Puzzles 591,Toys,Puzzles,Morris-Bishop,597.03,385.82,"Smith, Graham and Clark",2023-12-28
+962,Machine Educational Toys 684,Toys,Educational Toys,Barber Group,774.62,472.28,Pope LLC,2024-04-23
+963,Large Educational Toys 159,Toys,Educational Toys,Gomez-Brandt,232.08,99.03,Hill Inc,2024-09-24
+964,Big Dolls 927,Toys,Dolls,Jones Inc,670.34,366.47,"Roberts, Crawford and Moore",2025-01-09
+965,Think Educational Toys 422,Toys,Educational Toys,"Anderson, Aguilar and Henderson",411.03,189.69,Matthews Ltd,2024-02-27
+966,Stand Educational Toys 130,Toys,Educational Toys,"Banks, Dickerson and Myers",705.21,343.32,Hernandez and Sons,2024-03-26
+967,Poor Board Games 285,Toys,Board Games,Escobar Ltd,798.67,438.56,"Jackson, Walker and Chavez",2024-02-18
+968,According Action Figures 416,Toys,Action Figures,Carson Ltd,896.92,366.84,Hurst-Glass,2025-04-16
+969,Any Puzzles 737,Toys,Puzzles,Calderon-Martinez,887.36,509.56,Stevens-Figueroa,2025-03-16
+970,Rich Dolls 945,Toys,Dolls,"Martinez, Watts and Savage",488.32,330.37,Peterson-Mcdonald,2025-11-24
+971,National Board Games 283,Toys,Board Games,Barnes-Daniels,883.54,463.25,Matthews-Carr,2023-04-24
+972,Report Action Figures 281,Toys,Action Figures,Alvarez Ltd,468.96,200.74,Hunt LLC,2025-04-12
+973,Attack Educational Toys 132,Toys,Educational Toys,Burnett and Sons,357.69,221.79,Becker-Cole,2022-12-15
+974,Enough Board Games 521,Toys,Board Games,Fischer-Riley,302.24,144.74,Scott and Sons,2023-07-20
+975,Management Dolls 261,Toys,Dolls,Chase LLC,292.97,153.15,"Weeks, Meadows and Marshall",2023-10-21
+976,After Action Figures 676,Toys,Action Figures,Smith-Rhodes,702.53,370.24,"Larsen, Aguirre and Malone",2024-10-01
+977,Second Dolls 593,Toys,Dolls,"Horton, Lopez and Cole",425.69,295.07,"Edwards, Strong and Johnson",2024-05-14
+978,Enjoy Puzzles 923,Toys,Puzzles,Nelson and Sons,252.1,166.33,"Martinez, Lee and Sanchez",2024-12-14
+979,Section Puzzles 925,Toys,Puzzles,"Anderson, Gonzalez and Johnson",677.47,383.53,"Montgomery, Giles and Jones",2023-03-17
+980,Sea Board Games 993,Toys,Board Games,Gill Ltd,462.55,301.37,"Turner, Ramirez and Ross",2023-01-03
+981,Spend Educational Toys 796,Toys,Educational Toys,"Gallagher, Obrien and Estrada",727.22,494.91,"Jensen, Simpson and Cherry",2023-07-18
+982,Mean Dolls 221,Toys,Dolls,"Leonard, Franklin and Nelson",835.29,460.02,Taylor and Sons,2024-04-29
+983,Including Board Games 715,Toys,Board Games,Dunn LLC,68.01,37.65,"Reynolds, Mendoza and Rogers",2023-01-12
+984,Wonder Educational Toys 967,Toys,Educational Toys,"Bird, Quinn and Gonzalez",837.85,369.98,"Murray, Robinson and Nichols",2024-03-13
+985,Score Board Games 411,Toys,Board Games,Hughes-Butler,610.52,283.43,Hayes-Kim,2025-03-21
+986,Especially Puzzles 370,Toys,Puzzles,"Young, Kramer and Woods",649.78,313.62,Ferguson Ltd,2024-04-03
+987,Small Puzzles 353,Toys,Puzzles,Nunez-Orozco,719.42,483.58,Hooper-Moore,2025-05-16
+988,State Board Games 322,Toys,Board Games,Allen-Cuevas,751.56,511.9,Kidd-Nelson,2025-08-27
+989,Later Dolls 914,Toys,Dolls,Morales Group,811.83,378.68,Roberson LLC,2023-10-19
+990,Institution Action Figures 614,Toys,Action Figures,Jackson-Cole,95.69,45.92,"Wolfe, Hobbs and Johnson",2024-05-25
+991,Oil Dolls 615,Toys,Dolls,"Romero, Shea and Bishop",549.76,277.33,"Lewis, Baker and Foster",2024-10-15
+992,Than Board Games 466,Toys,Board Games,Alvarado Ltd,687.09,281.8,"Brooks, Martinez and Padilla",2022-12-29
+993,Day Action Figures 339,Toys,Action Figures,"Bradley, Wilson and Wright",556.39,275.03,Jenkins Group,2024-03-17
+994,Laugh Dolls 897,Toys,Dolls,"Pennington, Ford and Moore",308.09,146.07,Hayes PLC,2024-12-03
+995,Fly Dolls 425,Toys,Dolls,Roberts Ltd,385.51,225.42,Williams-Stewart,2024-09-19
+996,Be Action Figures 977,Toys,Action Figures,Keith Group,92.75,61.77,Dennis LLC,2023-01-26

@@ -1,0 +1,201 @@
+store_id,store_name,address,city,state,region,store_type,opening_date,square_footage
+1,Chicago Standard Store,802 Adams Rue Suite 315,Chicago,MP,North,Standard,2013-05-08,10150
+2,New York Express Store,1671 Betty Brooks Suite 184,New York,HI,North,Express,2023-07-23,1923
+3,Minneapolis Express Store,73265 Lane Rest,Minneapolis,WV,North,Express,2013-10-30,1380
+4,Detroit Standard Store,5442 Singh Turnpike Suite 677,Detroit,VT,North,Standard,2023-09-06,14555
+5,New York Standard Store,36689 Kim Underpass,New York,FL,North,Standard,2012-05-02,14614
+6,Detroit Flagship Store,41010 Knight Locks Apt. 359,Detroit,UT,North,Flagship,2019-11-04,27557
+7,New York Standard Store,52955 Kaitlyn Plains Apt. 354,New York,OH,North,Standard,2023-09-03,10552
+8,Chicago Standard Store,70532 Alicia Extension,Chicago,OK,North,Standard,2015-04-15,10893
+9,Detroit Standard Store,75103 Allen Trace Suite 862,Detroit,TX,North,Standard,2021-01-14,8783
+10,Boston Express Store,3463 Moreno Key,Boston,WA,North,Express,2014-12-22,1355
+11,Chicago Standard Store,212 Ferguson Lights,Chicago,AS,North,Standard,2014-04-13,11279
+12,Detroit Flagship Store,34768 Julia Well Apt. 301,Detroit,IN,North,Flagship,2021-07-10,26854
+13,Boston Standard Store,4584 Austin Fields,Boston,NE,North,Standard,2021-06-10,6177
+14,New York Express Store,108 Maria Garden Apt. 330,New York,RI,North,Express,2018-04-10,2329
+15,Minneapolis Standard Store,4110 Douglas Parkway,Minneapolis,NE,North,Standard,2023-07-22,7139
+16,Boston Standard Store,74514 Ali Curve Apt. 428,Boston,ID,North,Standard,2013-05-07,14207
+17,Boston Standard Store,477 Amanda Bypass Apt. 510,Boston,DC,North,Standard,2017-07-13,5792
+18,New York Standard Store,72187 Mcneil Ways,New York,NE,North,Standard,2011-11-25,12183
+19,New York Standard Store,71149 Carr Loaf Apt. 139,New York,AR,North,Standard,2021-01-22,10150
+20,Minneapolis Standard Store,16076 Davenport Landing Apt. 615,Minneapolis,MI,North,Standard,2021-10-30,13484
+21,Boston Express Store,586 Cheryl Cape Apt. 741,Boston,IL,North,Express,2014-07-27,4724
+22,Minneapolis Flagship Store,445 Walters Highway,Minneapolis,MP,North,Flagship,2012-04-13,19650
+23,New York Standard Store,0318 Fitzgerald Burgs Suite 688,New York,MD,North,Standard,2014-06-10,5493
+24,Boston Express Store,621 Heather Forks,Boston,UT,North,Express,2023-06-27,3742
+25,New York Standard Store,2239 Vazquez Circle,New York,LA,North,Standard,2012-04-23,11496
+26,Detroit Standard Store,679 Patrick Prairie,Detroit,PR,North,Standard,2013-10-12,10320
+27,New York Standard Store,576 Angela Lights Apt. 636,New York,NH,North,Standard,2020-06-01,7308
+28,Minneapolis Express Store,8950 Angela Hills Apt. 151,Minneapolis,WY,North,Express,2011-10-21,1761
+29,Minneapolis Standard Store,217 Castillo Trafficway,Minneapolis,DE,North,Standard,2021-12-13,10380
+30,Chicago Standard Store,6373 Freeman Trail Suite 017,Chicago,MD,North,Standard,2021-10-28,9063
+31,Detroit Express Store,6365 Jodi Ridges Apt. 594,Detroit,RI,North,Express,2011-05-23,4236
+32,New York Standard Store,68001 Lucas Roads,New York,AK,North,Standard,2023-12-31,6110
+33,Boston Standard Store,007 Cooper Parks Apt. 121,Boston,OH,North,Standard,2022-06-04,7308
+34,Minneapolis Standard Store,13685 Michael Highway Apt. 152,Minneapolis,ME,North,Standard,2023-07-10,10033
+35,Detroit Express Store,426 Willis Branch,Detroit,AK,North,Express,2023-08-24,3721
+36,New York Express Store,4024 Valerie Radial,New York,PR,North,Express,2015-05-08,4920
+37,Minneapolis Standard Store,7176 Jackson Loop Apt. 981,Minneapolis,MP,North,Standard,2013-01-29,9635
+38,Minneapolis Standard Store,6227 Stevenson Grove Apt. 080,Minneapolis,PA,North,Standard,2020-05-08,10017
+39,New York Standard Store,2212 Briggs Harbors,New York,MH,North,Standard,2019-08-12,7241
+40,Minneapolis Standard Store,60063 Robbins Parkways Apt. 839,Minneapolis,TN,North,Standard,2012-01-30,7869
+41,Chicago Flagship Store,79249 Marcus Summit,Chicago,PR,North,Flagship,2014-08-01,19832
+42,Chicago Express Store,51433 Vazquez Isle Suite 616,Chicago,ID,North,Express,2023-12-11,4763
+43,Boston Standard Store,106 Sloan Passage Suite 530,Boston,ND,North,Standard,2020-10-21,11186
+44,Chicago Standard Store,6029 Marks Points,Chicago,WA,North,Standard,2022-03-20,13934
+45,New York Standard Store,342 Hannah Parks Suite 141,New York,OK,North,Standard,2022-01-24,12902
+46,Minneapolis Standard Store,26320 William Rest,Minneapolis,PW,North,Standard,2012-06-13,12549
+47,Boston Standard Store,2526 Dana Village Suite 819,Boston,NY,North,Standard,2022-07-27,13943
+48,Boston Standard Store,65246 Mosley Islands,Boston,VT,North,Standard,2016-04-28,6758
+49,Minneapolis Express Store,60373 Barbara Shoals Suite 797,Minneapolis,SD,North,Express,2015-05-23,1083
+50,Chicago Standard Store,428 Suzanne Turnpike,Chicago,NE,North,Standard,2023-02-08,14671
+51,Atlanta Flagship Store,3618 Suarez Tunnel,Atlanta,AS,South,Flagship,2021-07-20,17367
+52,Nashville Standard Store,45301 Gonzales Forges,Nashville,MN,South,Standard,2010-12-05,5866
+53,Miami Standard Store,85310 Robinson Orchard,Miami,KS,South,Standard,2022-04-06,14244
+54,Atlanta Standard Store,65946 Beck Greens,Atlanta,FL,South,Standard,2021-01-06,11275
+55,Nashville Express Store,930 Harper Mission,Nashville,HI,South,Express,2015-10-20,2801
+56,Dallas Standard Store,321 Johnson Summit,Dallas,GA,South,Standard,2020-07-04,6270
+57,Nashville Standard Store,2094 Brady Trail Apt. 864,Nashville,NC,South,Standard,2014-04-22,10677
+58,Dallas Standard Store,4305 Kerry Lodge,Dallas,FL,South,Standard,2022-02-03,14712
+59,Miami Flagship Store,40232 Jones Vista,Miami,CT,South,Flagship,2022-04-13,17658
+60,Dallas Express Store,7069 Tina Roads,Dallas,NC,South,Express,2022-08-30,3789
+61,Dallas Standard Store,578 Kimberly Field,Dallas,KY,South,Standard,2018-08-01,13865
+62,Atlanta Standard Store,710 Briana Brooks,Atlanta,TN,South,Standard,2022-06-08,13008
+63,Miami Standard Store,6819 Erin Walk,Miami,MH,South,Standard,2020-07-22,12955
+64,Dallas Standard Store,79992 Barbara Locks,Dallas,MO,South,Standard,2020-05-24,7667
+65,Houston Standard Store,98419 Johnson Plaza Suite 430,Houston,HI,South,Standard,2020-06-16,8318
+66,Nashville Express Store,4286 Ford Trail,Nashville,TN,South,Express,2024-02-10,2972
+67,Miami Express Store,277 Hector Orchard Apt. 674,Miami,IL,South,Express,2020-04-05,1436
+68,Houston Standard Store,1947 Gabriel Burg,Houston,PW,South,Standard,2021-02-20,5772
+69,Houston Express Store,386 Howell Neck Apt. 771,Houston,CO,South,Express,2013-05-19,4659
+70,Houston Flagship Store,00189 Hampton Crossroad Suite 538,Houston,MS,South,Flagship,2023-06-15,23514
+71,Dallas Flagship Store,618 Rogers Junction,Dallas,WI,South,Flagship,2012-02-01,24044
+72,Dallas Standard Store,06972 Mason Trail,Dallas,CA,South,Standard,2024-09-24,11342
+73,Houston Standard Store,81339 Phillips Row,Houston,WI,South,Standard,2011-12-06,7566
+74,Miami Flagship Store,49229 Stacy Bridge Apt. 333,Miami,TN,South,Flagship,2013-01-27,21531
+75,Atlanta Standard Store,62522 Wiggins Corners Apt. 624,Atlanta,NM,South,Standard,2016-10-15,12295
+76,Miami Standard Store,25531 Kimberly Port Suite 401,Miami,AL,South,Standard,2011-03-01,7429
+77,Atlanta Standard Store,3322 Kelly Streets Apt. 312,Atlanta,SD,South,Standard,2021-03-28,9368
+78,Houston Standard Store,29510 Michael Route Suite 550,Houston,HI,South,Standard,2014-10-05,7607
+79,Miami Standard Store,539 Martin Pines Suite 431,Miami,RI,South,Standard,2017-04-12,5462
+80,Nashville Flagship Store,4893 Torres Cliff,Nashville,GA,South,Flagship,2012-03-04,21860
+81,Dallas Express Store,946 Krystal Manors,Dallas,VI,South,Express,2016-10-08,2886
+82,Atlanta Standard Store,025 Christina Fall Apt. 115,Atlanta,MH,South,Standard,2022-11-11,6409
+83,Houston Standard Store,0634 Hector Circles,Houston,AK,South,Standard,2021-03-26,11075
+84,Atlanta Standard Store,087 Webb Cape,Atlanta,IA,South,Standard,2011-12-11,12014
+85,Miami Standard Store,70031 Curtis Crossing,Miami,CO,South,Standard,2023-01-26,8357
+86,Atlanta Standard Store,159 Adams Villages Suite 774,Atlanta,SD,South,Standard,2015-11-10,9943
+87,Atlanta Standard Store,78491 Glenn Centers Suite 759,Atlanta,TN,South,Standard,2015-12-30,11477
+88,Miami Standard Store,25165 Smith Track,Miami,PW,South,Standard,2021-03-14,5007
+89,Atlanta Standard Store,781 Jennifer Cove,Atlanta,ND,South,Standard,2017-10-04,13784
+90,Miami Express Store,31809 Austin Views,Miami,AR,South,Express,2018-12-08,4853
+91,Miami Standard Store,12858 Ana Forks Apt. 895,Miami,PW,South,Standard,2018-09-30,10944
+92,Miami Standard Store,13787 Sherry Courts,Miami,RI,South,Standard,2012-10-16,12132
+93,Atlanta Standard Store,11336 Rollins Loop Apt. 604,Atlanta,DC,South,Standard,2015-02-02,10035
+94,Miami Express Store,01704 Williams Plaza Apt. 806,Miami,DC,South,Express,2012-02-09,2035
+95,Atlanta Express Store,6164 Mack Roads Suite 638,Atlanta,MP,South,Express,2019-08-02,1667
+96,Nashville Flagship Store,64470 Gould Knolls,Nashville,MS,South,Flagship,2020-05-21,15594
+97,Houston Express Store,300 Snow Courts Apt. 733,Houston,NC,South,Express,2022-11-02,1768
+98,Dallas Express Store,211 Glenn Mount Apt. 401,Dallas,KY,South,Express,2014-04-27,2238
+99,Miami Standard Store,5932 Daniel Wells Suite 328,Miami,SC,South,Standard,2013-02-25,12834
+100,Houston Standard Store,511 Rodriguez Loaf Apt. 033,Houston,WI,South,Standard,2020-06-15,11977
+101,Pittsburgh Express Store,6489 Steele Trafficway,Pittsburgh,WI,East,Express,2016-08-27,3237
+102,Baltimore Express Store,4829 Bruce Harbor Suite 223,Baltimore,ME,East,Express,2019-04-23,2271
+103,Richmond Express Store,7760 Leslie Court Apt. 151,Richmond,IN,East,Express,2015-04-18,4748
+104,Baltimore Express Store,349 Wayne Mission Apt. 823,Baltimore,AL,East,Express,2011-12-03,3916
+105,Pittsburgh Standard Store,6231 Bradley Stravenue,Pittsburgh,NM,East,Standard,2022-07-05,8614
+106,Pittsburgh Standard Store,107 Sharon Keys Suite 647,Pittsburgh,WY,East,Standard,2019-05-19,12905
+107,Charlotte Standard Store,98910 Zachary Glen Suite 211,Charlotte,KY,East,Standard,2016-06-22,14503
+108,Pittsburgh Standard Store,8938 Atkinson Trafficway,Pittsburgh,WV,East,Standard,2021-07-03,13335
+109,Baltimore Standard Store,25509 Henderson Brooks Apt. 093,Baltimore,MP,East,Standard,2014-04-04,12130
+110,Baltimore Flagship Store,52748 Denise Pine Suite 046,Baltimore,AK,East,Flagship,2024-09-22,22234
+111,Pittsburgh Standard Store,6903 Susan Manors Apt. 115,Pittsburgh,OR,East,Standard,2015-02-18,12821
+112,Philadelphia Standard Store,807 Anderson Port Suite 354,Philadelphia,CT,East,Standard,2021-09-24,10249
+113,Richmond Flagship Store,104 Aaron Run Suite 138,Richmond,OR,East,Flagship,2020-08-31,27667
+114,Richmond Standard Store,31199 Martin Overpass Apt. 921,Richmond,WI,East,Standard,2018-03-11,8881
+115,Charlotte Standard Store,519 Jack Coves Apt. 172,Charlotte,UT,East,Standard,2024-06-02,12475
+116,Philadelphia Express Store,069 Meza Roads Apt. 903,Philadelphia,VA,East,Express,2024-11-16,3095
+117,Charlotte Flagship Store,850 Douglas Lane Suite 346,Charlotte,NH,East,Flagship,2011-08-01,15284
+118,Richmond Standard Store,70603 Sean Forks,Richmond,NM,East,Standard,2016-08-16,10301
+119,Richmond Express Store,513 Pittman Dam,Richmond,AK,East,Express,2021-07-27,2582
+120,Pittsburgh Standard Store,1083 Fox Roads Suite 612,Pittsburgh,OK,East,Standard,2014-03-05,7843
+121,Baltimore Standard Store,695 Lori Point Suite 813,Baltimore,PR,East,Standard,2015-06-06,11083
+122,Pittsburgh Standard Store,030 Nelson Springs,Pittsburgh,UT,East,Standard,2020-06-27,14578
+123,Philadelphia Standard Store,2134 Weber Parkways Suite 247,Philadelphia,OK,East,Standard,2017-03-21,8649
+124,Baltimore Standard Store,716 Susan Ridge Apt. 633,Baltimore,AK,East,Standard,2024-08-17,12322
+125,Baltimore Standard Store,0694 Justin Glens,Baltimore,NY,East,Standard,2019-10-14,7543
+126,Richmond Standard Store,3758 Melissa Plaza,Richmond,AR,East,Standard,2012-05-06,11794
+127,Richmond Standard Store,6137 Salinas Vista Suite 855,Richmond,KY,East,Standard,2012-11-11,6442
+128,Philadelphia Standard Store,6415 Martinez Views Apt. 309,Philadelphia,OH,East,Standard,2018-04-28,6321
+129,Charlotte Express Store,6741 Williamson Extensions Suite 077,Charlotte,AK,East,Express,2020-07-30,4371
+130,Richmond Standard Store,6360 Rodney Overpass Suite 060,Richmond,PR,East,Standard,2018-03-07,7506
+131,Pittsburgh Standard Store,7437 Elizabeth Mountains Apt. 801,Pittsburgh,MS,East,Standard,2018-02-18,5603
+132,Philadelphia Express Store,4273 Steven Plain Apt. 972,Philadelphia,NH,East,Express,2016-02-20,3841
+133,Pittsburgh Standard Store,24910 Douglas Via Suite 721,Pittsburgh,IL,East,Standard,2020-09-08,5047
+134,Philadelphia Standard Store,82355 Farmer Bridge,Philadelphia,SC,East,Standard,2014-10-17,5589
+135,Baltimore Standard Store,46928 Daniel Brook,Baltimore,NY,East,Standard,2021-12-26,9540
+136,Pittsburgh Standard Store,27774 James Expressway,Pittsburgh,IA,East,Standard,2020-03-23,9249
+137,Pittsburgh Standard Store,709 Noble Branch,Pittsburgh,MD,East,Standard,2018-08-31,13366
+138,Baltimore Standard Store,908 Kristine Tunnel Suite 963,Baltimore,KS,East,Standard,2021-03-20,8048
+139,Pittsburgh Standard Store,195 Price Gardens Apt. 037,Pittsburgh,VI,East,Standard,2022-02-17,14695
+140,Pittsburgh Standard Store,8621 Coleman Ridges,Pittsburgh,MD,East,Standard,2016-12-24,9016
+141,Pittsburgh Standard Store,32160 Schroeder Vista,Pittsburgh,IL,East,Standard,2021-05-09,7844
+142,Philadelphia Express Store,725 Jones Trace,Philadelphia,CA,East,Express,2013-08-15,1437
+143,Richmond Express Store,4548 Nathan Trail,Richmond,CA,East,Express,2019-07-21,4485
+144,Baltimore Standard Store,672 Gordon Highway Apt. 051,Baltimore,NV,East,Standard,2011-05-01,11252
+145,Baltimore Standard Store,46450 Robinson Passage Apt. 561,Baltimore,CO,East,Standard,2016-02-07,8055
+146,Pittsburgh Standard Store,8795 Dean Underpass Apt. 788,Pittsburgh,VT,East,Standard,2011-03-05,9611
+147,Philadelphia Standard Store,1753 Todd Pines Suite 868,Philadelphia,MN,East,Standard,2022-11-23,13209
+148,Philadelphia Standard Store,99773 Murray Lights,Philadelphia,PA,East,Standard,2021-02-22,14451
+149,Baltimore Standard Store,827 Finley Cape Apt. 604,Baltimore,NM,East,Standard,2024-01-02,13264
+150,Baltimore Standard Store,4747 Virginia Oval Apt. 213,Baltimore,VT,East,Standard,2022-01-03,13510
+151,Portland Standard Store,1329 Luna Grove,Portland,MD,West,Standard,2018-02-21,6676
+152,Denver Standard Store,2867 Ruth Course,Denver,VI,West,Standard,2018-10-25,11501
+153,Los Angeles Standard Store,30832 Jack Extensions,Los Angeles,RI,West,Standard,2013-11-18,11472
+154,San Francisco Express Store,272 Miles Turnpike,San Francisco,ID,West,Express,2011-09-23,2142
+155,Denver Standard Store,11400 Adam Shoals,Denver,TX,West,Standard,2018-02-01,12147
+156,Portland Express Store,328 John Port Suite 022,Portland,DC,West,Express,2022-03-25,3180
+157,San Francisco Standard Store,254 Sanchez Vista Suite 172,San Francisco,WY,West,Standard,2020-08-17,6276
+158,Seattle Standard Store,156 Christopher Extension,Seattle,NJ,West,Standard,2015-09-03,14991
+159,Los Angeles Standard Store,662 Powell Rapids Suite 707,Los Angeles,MD,West,Standard,2016-06-27,12063
+160,Denver Standard Store,54112 Jill Point Apt. 981,Denver,AR,West,Standard,2014-11-29,8065
+161,San Francisco Flagship Store,619 Johnson Isle,San Francisco,TN,West,Flagship,2023-09-24,25054
+162,Portland Standard Store,618 David Ford Suite 322,Portland,FM,West,Standard,2023-04-05,11719
+163,Seattle Standard Store,699 White Neck,Seattle,MP,West,Standard,2016-01-08,10183
+164,San Francisco Standard Store,6646 Ball Brook Suite 916,San Francisco,MI,West,Standard,2024-10-25,7698
+165,Los Angeles Standard Store,1751 Evans Haven,Los Angeles,IA,West,Standard,2019-05-03,12639
+166,Portland Standard Store,707 Bethany Views Apt. 248,Portland,GA,West,Standard,2019-10-06,14530
+167,Los Angeles Express Store,53801 Tyler Rapids,Los Angeles,SD,West,Express,2016-10-14,1629
+168,Seattle Flagship Store,6576 Peterson Falls,Seattle,GA,West,Flagship,2016-11-22,25507
+169,Denver Express Store,21524 Michele Tunnel,Denver,MD,West,Express,2018-08-12,4446
+170,Los Angeles Standard Store,6113 Jessica Land Suite 860,Los Angeles,NE,West,Standard,2022-03-28,7969
+171,San Francisco Standard Store,542 Williams Parks Apt. 066,San Francisco,CT,West,Standard,2023-11-01,8242
+172,Los Angeles Standard Store,07468 Stephanie Point Apt. 954,Los Angeles,CA,West,Standard,2022-08-13,8248
+173,Portland Standard Store,24262 Salas Walk Apt. 791,Portland,HI,West,Standard,2020-09-13,5833
+174,Seattle Express Store,8506 Janet Pass,Seattle,MO,West,Express,2024-03-08,3060
+175,San Francisco Standard Store,108 Lewis Island,San Francisco,VT,West,Standard,2018-11-06,5546
+176,San Francisco Express Store,6393 Kimberly Trafficway,San Francisco,PA,West,Express,2022-03-30,3431
+177,San Francisco Standard Store,49289 Roberts Grove,San Francisco,MD,West,Standard,2018-04-08,5983
+178,Los Angeles Express Store,866 Valerie Crest Apt. 493,Los Angeles,IA,West,Express,2020-02-19,4787
+179,San Francisco Standard Store,7933 Johnson Villages,San Francisco,PR,West,Standard,2011-05-30,5133
+180,Denver Standard Store,115 Lee Alley Suite 018,Denver,GA,West,Standard,2021-10-18,6358
+181,Los Angeles Express Store,679 James Loop Suite 322,Los Angeles,ME,West,Express,2012-06-25,3052
+182,Seattle Express Store,78889 Brown Overpass,Seattle,UT,West,Express,2018-04-15,4710
+183,Denver Standard Store,1633 Sherry Way Suite 336,Denver,ME,West,Standard,2024-09-04,7461
+184,Los Angeles Standard Store,416 Colin Locks Suite 103,Los Angeles,CT,West,Standard,2015-10-04,10727
+185,Denver Standard Store,5491 Becker Brooks,Denver,PR,West,Standard,2022-12-20,8026
+186,Denver Standard Store,908 Amanda Plains Apt. 674,Denver,MA,West,Standard,2017-03-12,10998
+187,San Francisco Flagship Store,9857 Black Crest Suite 000,San Francisco,FM,West,Flagship,2012-10-02,19281
+188,San Francisco Standard Store,88962 Wesley Course,San Francisco,FM,West,Standard,2024-02-11,5670
+189,Los Angeles Standard Store,95342 Meghan Knoll Suite 606,Los Angeles,FM,West,Standard,2012-07-05,10670
+190,Seattle Flagship Store,33350 Heather Passage Suite 486,Seattle,ID,West,Flagship,2012-09-01,25493
+191,Denver Express Store,0534 Hannah Bypass Apt. 577,Denver,NC,West,Express,2012-09-09,1453
+192,Denver Standard Store,5455 Rodriguez Centers Apt. 105,Denver,MA,West,Standard,2017-01-31,13603
+193,Seattle Standard Store,049 Erica Inlet Suite 367,Seattle,MN,West,Standard,2022-05-12,14695
+194,San Francisco Standard Store,138 Murillo Coves Apt. 128,San Francisco,NE,West,Standard,2023-03-28,9919
+195,San Francisco Standard Store,73589 Kristin Creek,San Francisco,AK,West,Standard,2018-07-05,14145
+196,Portland Standard Store,8492 Brett Highway Apt. 211,Portland,ID,West,Standard,2014-12-01,8214
+197,Denver Express Store,115 Reed Springs,Denver,NM,West,Express,2022-03-26,1528
+198,Seattle Standard Store,340 Wong Greens Apt. 152,Seattle,MH,West,Standard,2010-12-21,10174
+199,Portland Standard Store,8321 Brown Glens,Portland,DC,West,Standard,2024-11-17,7006
+200,San Francisco Standard Store,1824 Abigail Points Apt. 629,San Francisco,UT,West,Standard,2019-09-20,8540
